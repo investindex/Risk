@@ -62,26 +62,26 @@ So it may be most realistic to work out your financial situation if you needed t
 
 We also need to consider how investments will reward us throughout our life, and especially during retirement. 
 
-Factors over which you exercise some control include:
--Income during your working years and changes in income over time;
--Allocation and timing of investments;
--Use of tax-advantaged accounts;
--At what age you may merge finances with a long-term partner;
--At what age you may have children;
--Support you expect to provide to and receive from your family;
--How much you will spend, save, and invest during working years;
--How much you will change your spending after retirement;
--How you will change your investment approach after retirement;
--Age of retirement;
--Whether you retire suddenly or continue earning a smaller income for some time;
+Factors over which you exercise some control include:  
+-Income during your working years and changes in income over time;  
+-Allocation and timing of investments;  
+-Use of [tax-advantaged accounts](https://github.com/investindex/Guidelines#tax-advantaged-accounts);  
+-At what age you may merge finances with a long-term partner;  
+-At what age you may have children;  
+-Support you expect to provide to and receive from your family;  
+-How much you will spend, save, and invest during working years;  
+-How much you will change your spending after retirement;  
+-How you will change your investment approach after retirement;  
+-Age of retirement;  
+-Whether you retire suddenly or continue earning a smaller income for some time;  
 -Personal goals such as charitable donations or leaving money for your children.
 
-Factors over which you exercise little or no control include:
--[Asset class](https://www.investopedia.com/terms/a/assetclasses.asp) returns for stocks and bonds;
--Inflation rates;
--Interest rates;
--Tax rates;
--Government benefits like Social Security, which may change by the time you retire.
+Factors over which you exercise little or no control include:  
+-[Asset class](https://www.investopedia.com/terms/a/assetclasses.asp) returns for stocks and bonds;  
+-Inflation rates;  
+-Interest rates;  
+-Tax rates;  
+-Government benefits like Social Security, which may change by the time you retire.  
 
 Many of these variables can be entered into an online retirement calculator like [this one](https://www.bankrate.com/retirement/calculators/retirement-plan-calculator/). Basic calculators give you an idea of how your saving and investing will add up in the long run, and whether they can sustain you during retirement. But make sure to consider the factors not explicitly included in these calculators, like unexpected support you may need to provide to children or aging parents in middle age, and potentially very high medical costs in old age. These calculations will be rough. The future is uncertain and it’s not possible to include everything that could influence your wealth. But working out imprecise numbers is far better than the vague assumptions that would take their place. Planning your future will also demonstrate how useful it is to keep track of your spending. Exactly how much do you spend on food? How much does car maintenance cost? You will be able to project future spending far more accurately if you record and categorize your current spending. You may also be able to target areas in which you’re spending more than you thought.
 
