@@ -72,4 +72,4 @@ Footnotes:
 
 <sup id="f1"> 1 </sup> Further detail on S&P 500 closing prices. 2020 crash: peak Feb 19 2020, nadir Mar 23 2020 with drawdown of 33.9%, recovery by Aug 18 2020. Great Recession: peak Oct 9 2007, nadir Mar 9 2009 with drawdown of 56.8%, recovery by Mar 28 2013. 1973 crash: peak Jan 11 1973, nadir Oct 3 1974 with drawdown of 48.2%, recovery by July 17 1980. [↩](#fn1)
 
-<sup id="f2"> 2 </sup> Further detail on S&P 500 closing prices. 2020 crash: peak Feb 19 2020, nadir Mar 23 2020 with drawdown of 33.9%, recovery by Aug 18 2020. Great Recession: peak Oct 9 2007, nadir Mar 9 2009 with drawdown of 56.8%, recovery by Mar 28 2013. 1973 crash: peak Jan 11 1973, nadir Oct 3 1974 with drawdown of 48.2%, recovery by July 17 1980. [↩](#fn2)
+<sup id="f2"> 2 </sup> How bad was the Great Depression? After a decade of roaring growth, the predecessor to the S&P 500 peaked on Sep 16 1929 and fell 86.2% by Jun 1 1932. It spent significant periods with a drawdown in excess of 80%: all days but one between Apr 8 and Aug 2 1932, and again most days between Feb 14 and Apr 7 1933. Another index, the Dow Jones Industrial Average, fell 89.2% at the nadir. [↩](#fn2)
