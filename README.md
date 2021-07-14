@@ -4,7 +4,7 @@
 
 In the context of investment, one can consider risk of loss on a spectrum: some securities can safely be considered to carry no risk, like [certificates of deposit](https://www.investopedia.com/terms/c/certificateofdeposit.asp) and [US treasury bills](https://www.investopedia.com/terms/t/treasurybill.asp); some have moderate risk, such as diversified index funds; and others carry high risk, such as [hedge fund purchases of distressed debt](https://www.investopedia.com/articles/bonds/08/distressed-debt-hedge-fund.asp). The lowest-risk options generate small returns and, in the current low-interest environment, will not even keep pace with inflation. Stock market index funds require the investor to accept meaningful risk, with the potential for much greater reward.
 
-What do lifetime returns from index funds look like? According to [this article](https://www.wsj.com/articles/lessons-from-a-crazy-year-in-financial-markets-11609410602), placing $10,000 in an S&P 500 index fund in Jan 1980 with dividend reinvestments would have yielded nearly $700,000 of growth by August 2020. This is an impressive reward for leaving money alone, especially in contrast to any low-risk alternative. The average annual appreciation was just over 11%. Now imagine a different scenario, in which you added savings to a tax-advantaged retirement account at the beginning of every year. You started with $1,000 in 1980 and increased by $100 each year through 2020. For simplicity, imagine that your investment grew at the average rate the whole time. By the end of August 2020 you contributed $123,000 but your account reached a value of about $1.3 million. These examples are simplistic but exhibit the power of compounding growth.
+What do lifetime returns from index funds look like? According to [this article](https://www.wsj.com/articles/lessons-from-a-crazy-year-in-financial-markets-11609410602), placing $10,000 in an S&P 500 index fund in Jan 1980 with dividend reinvestments would have yielded nearly $700,000 of growth by August 2020. This is an impressive reward for leaving money alone, especially in contrast to any low-risk alternative. The average annual appreciation was just over 11%. Now imagine a different scenario, in which you added savings to a [tax-advantaged retirement account](https://github.com/investindex/Guidelines#tax-advantaged-accounts) at the beginning of every year. You started with $1,000 in 1980 and increased by $100 each year through 2020. For simplicity, imagine that your investment grew at the average rate the whole time. By the end of August 2020 you contributed $123,000 but your account reached a value of about $1.3 million. These examples are simplistic but exhibit the power of compounding growth.
 
 <p align="center">
 <img src="https://github.com/investindex/Risk/blob/main/S%26P40yr.png" width="264" height="360"/>
@@ -56,7 +56,36 @@ Such events are expected to be extremely rare, and they are not characteristic o
 
 Could both of these drawdowns happen at the same time? Large declines in the value of stock funds and long-term bond funds are unlikely to co-occur for very long. In the event of a bear market, the Federal Reserve lowers interest rates to encourage borrowing and spending, which boosts long-term bonds. Of course, corporate bonds with high default risk are in particular jeopardy when the stock market plummets, which is why I recommend government and investment-grade corporate bonds, not [high-yield bonds](https://www.investopedia.com/terms/h/high_yield_bond.asp).
 
-So it may be most realistic to work out your financial situation if you needed to draw on your investments at the bottom of an 80% decline in stocks or a 20% decline in long-term bonds. Keep in mind that this is a rule of thumb optimizing for simplicity, and other reasonable rules exist. The guideline is deliberately conservative, so a vast majority of future drawdowns will not approach these extremes.
+So it may be most realistic to work out your financial situation if you needed to draw on your investments at the bottom of an 80% decline in stocks _or_ a 20% decline in long-term bonds. Keep in mind that this is a rule of thumb optimizing for simplicity, and other reasonable rules exist. The guideline is deliberately conservative, so a vast majority of future drawdowns will not approach these extremes.
+
+### Preparing for the long run
+
+We also need to consider how investments will reward us throughout our life, and especially during retirement. 
+
+Factors over which you exercise some control include:
+-Income during your working years and changes in income over time;
+-Allocation and timing of investments;
+-Use of tax-advantaged accounts;
+-At what age you may merge finances with a long-term partner;
+-At what age you may have children;
+-Support you expect to provide to and receive from your family;
+-How much you will spend, save, and invest during working years;
+-How much you will change your spending after retirement;
+-How you will change your investment approach after retirement;
+-Age of retirement;
+-Whether you retire suddenly or continue earning a smaller income for some time;
+-Personal goals such as charitable donations or leaving money for your children.
+
+Factors over which you exercise little or no control include:
+-[Asset class](https://www.investopedia.com/terms/a/assetclasses.asp) returns for stocks and bonds;
+-Inflation rates;
+-Interest rates;
+-Tax rates;
+-Government benefits like Social Security, which may change by the time you retire.
+
+Many of these variables can be entered into an online retirement calculator like [this one](https://www.bankrate.com/retirement/calculators/retirement-plan-calculator/). Basic calculators give you an idea of how your saving and investing will add up in the long run, and whether they can sustain you during retirement. But make sure to consider the factors not explicitly included in these calculators, like unexpected support you may need to provide to children or aging parents in middle age, and potentially very high medical costs in old age. These calculations will be rough. The future is uncertain and it’s not possible to include everything that could influence your wealth. But working out imprecise numbers is far better than the vague assumptions that would take their place. Planning your future will also demonstrate how useful it is to keep track of your spending. Exactly how much do you spend on food? How much does car maintenance cost? You will be able to project future spending far more accurately if you record and categorize your current spending. You may also be able to target areas in which you’re spending more than you thought.
+
+Although there are variables you cannot control, like federal tax rates, you can adjust variables which are under your control, like savings rates, to make it more likely that you’ll be prepared for an uncertain future. There are also factors which are under your control to a great degree, except in rare situations. Health is a perfect example: most people have the opportunity to reduce expected health care costs by keeping themselves healthy, but it is always possible to be dealt an unavoidable illness or injury. Risks like these are covered in the [next section's guidelines](https://github.com/investindex/Guidelines).
 
 &nbsp;
 
