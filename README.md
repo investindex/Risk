@@ -28,10 +28,48 @@ In contrast to the minor volatility of short-term bond funds, there are some yea
 
 If you’d prefer only one bond ETF, you could buy shares of a total US bond fund ([BND](https://investor.vanguard.com/etf/profile/BND) / [AGG](https://www.ishares.com/us/products/239458/ishares-core-total-us-bond-market-etf) / [SPAB](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-aggregate-bond-etf-spab) / [SCHZ](https://www.schwabassetmanagement.com/products/schz)), a total US corporate bond fund ([VTC](https://investor.vanguard.com/etf/profile/overview/VTC) / [LQD](https://www.ishares.com/us/products/239566/ishares-iboxx-investment-grade-corporate-bond-etf) / [SPBO](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-corporate-bond-etf-spbo)), or a total global bond fund ([BNDW](https://investor.vanguard.com/etf/profile/overview/BNDW)). But your allocation of different bond maturities, and the overall risk-return profile, may not be ideal. Regardless of your choices, ensure that each fund’s expense ratio is very low. The comparatively low returns of bonds make this especially important for fund selection.
 
-Bond funds typically pay monthly dividends. The best default for most people is to automatically reinvest these dividends in more shares of the fund. When you need to withdraw money from the fund, you can either turn off automatic reinvestment and wait for the next dividend payment, or you can simply sell shares of the fund. See the section on taxes for the different tax implications these actions carry.
+Bond funds typically pay monthly dividends. The best default for most people is to automatically reinvest these dividends in more shares of the fund. When you need to withdraw money from the fund, you can either turn off automatic reinvestment and wait for the next dividend payment, or you can simply sell shares of the fund. See the [section on taxes](https://github.com/investindex/Taxes) for the different tax implications these actions carry.
 
 Finally, behind your long-term bond funds should be the stock index funds introduced at the beginning. They will generate the bulk of your investment returns. The various funds that could form your stock portfolio will be discussed in later sections. First, we should address how to think through allocation of your reserves to stocks and long-term bonds.
 
 &nbsp;
 
+## Allocation and overall risk
+
+One way of assessing how you should distribute your risk is considering what your worst-case scenario would be given a possible distribution. First consider what could go wrong in your life anytime: a totaled car, a health crisis, an unexpected home repair, loss of your income or the income of anyone who might depend on you. Then consider that something like this might happen around the same time that your investments drop significantly in value. This would be unlucky, but your financial planning should account for it.
+
+Another risk to consider is the possibility of not meeting your basic needs and personal goals in the long run. You could keep everything in short-term bonds for decades and never suffer a major loss, but the missed opportunities would be vast. Your approach should not be so conservative that it fails to provide you with enough money throughout your working life or during retirement.
+
+Note the tension between these considerations. Envisioning your long-term goals will push you toward more risk and return, whereas recalling the possibility of loss in the short term will remind you to approach risk carefully.
+
+### Preparing for loss
+
+How risky are stocks and bonds? The risk presented by individual stocks and by a diversified stock portfolio are fundamentally different. A single stock can lose nearly all of its value and never recover. A diversified index fund or group of funds tracking the US or global stock market will eventually rebound from downturns. The crucial difference is that a diversified investor need not worry about unrecoverable losses if they have the financial and psychological means to simply wait. So the primary concern is better thought of as volatility rather than loss, because however terrifying it may be, unrealized loss is temporary for a diversified stockholder.
+
+Periods of major unrealized loss are sometimes brief. After the market crashed in February and March 2020, it took only six months from the beginning of the [drawdown](https://www.investopedia.com/terms/d/drawdown.asp) for the S&P 500 to exceed its previous peak. Less commonly, this process can also take several years. The decline beginning in October 2007 lasted until March 2009, and recovery did not occur until March 2013, nearly five and a half years after the drawdown began. The Great Recession was not even the longest in modern history: a [bear market](https://www.investopedia.com/terms/b/bearmarket.asp) starting in January 1973 did not see its bottom until October 1974 or a recovery until July 1980, for a total of seven and a half years.<sup id="fn1">[1](#f1)</sup> Keep in mind that the drawdowns beginning in 1973 and 2007 were unusually severe; only the Great Depression was deeper and longer. The take-home message is that periods of major unrealized loss vary greatly, and this uncertainty is part of the psychological struggle. Participation in the stock market means being prepared for a multiyear period in which returns are zero.
+
+There are two positive notes to counterbalance this bleak reminder. First, as disastrous as these bear markets might seem in the midst of them, the period we reviewed from 1980 to 2020 included numerous bear markets and still emerged with fantastic overall returns. Second, [risk factor diversification](https://www.youtube.com/watch?v=jKWbW7Wgm0w&ab_channel=BenFelix) can significantly reduce the duration of these drawdowns, compared to a portfolio of only the S&P 500 or only the total market. Small cap value stocks recovered from the 1970s bear market several years earlier than the S&P 500, and their overall performance for the decade [crushed](https://www.portfoliovisualizer.com/backtest-asset-class-allocation) the performance of large cap stocks (like the S&P 500). The 1970s would have been a decade of strong growth for someone who highly overweighted small cap value stocks. We will expand on risk factor diversification in the [section on stock portfolios](https://github.com/investindex/Portfolio).
+
+Disasters for long-term bonds are comparatively mild. The worst three-year period in modern US history for long-term government bonds was [the period ending](https://www.thebalance.com/rolling-index-returns-4061795) in September 1981. Annual returns were about -6% on average for three consecutive years. Based on the historical data, I will suggest the following disaster scenarios for financial planning: a 20% [drawdown](https://www.investopedia.com/terms/d/drawdown.asp) of long-term bonds or an 80% drawdown of the stock market.
+
+Such events are expected to be extremely rare, and they are not characteristic of an overwhelming majority of declines in value for stock or long-term bond indices. In particular, many people argue that the US stock market is far more transparent and better-regulated than during the Great Depression era, and that an enduring collapse like that one is inconceivable now.<sup id="fn2">[2](#f2)</sup> I am tempted to agree, but it is hard to agree so completely that I would stake my financial solvency on it.
+
+Could both of these drawdowns happen at the same time? Large declines in the value of stock funds and long-term bond funds are unlikely to co-occur for very long. In the event of a bear market, the Federal Reserve lowers interest rates to encourage borrowing and spending, which boosts long-term bonds. Of course, corporate bonds with high default risk are in particular jeopardy when the stock market plummets, which is why I recommend government and investment-grade corporate bonds, not [high-yield bonds](https://www.investopedia.com/terms/h/high_yield_bond.asp).
+
+So it may be most realistic to work out your financial situation if you needed to draw on your investments at the bottom of an 80% decline in stocks or a 20% decline in long-term bonds. Keep in mind that this is a rule of thumb optimizing for simplicity, and other reasonable rules exist. The guideline is deliberately conservative, so a vast majority of future drawdowns will not approach these extremes.
+
+&nbsp;
+
 [Click here for the next section — Guidelines for financial planning](https://github.com/investindex/Guidelines)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+Footnotes:
+
+<sup id="f1"> 1 </sup> Further detail on S&P 500 closing prices. 2020 crash: peak Feb 19 2020, nadir Mar 23 2020 with drawdown of 33.9%, recovery by Aug 18 2020. Great Recession: peak Oct 9 2007, nadir Mar 9 2009 with drawdown of 56.8%, recovery by Mar 28 2013. 1973 crash: peak Jan 11 1973, nadir Oct 3 1974 with drawdown of 48.2%, recovery by July 17 1980. [↩](#fn1)
+
+<sup id="f2"> 2 </sup> Further detail on S&P 500 closing prices. 2020 crash: peak Feb 19 2020, nadir Mar 23 2020 with drawdown of 33.9%, recovery by Aug 18 2020. Great Recession: peak Oct 9 2007, nadir Mar 9 2009 with drawdown of 56.8%, recovery by Mar 28 2013. 1973 crash: peak Jan 11 1973, nadir Oct 3 1974 with drawdown of 48.2%, recovery by July 17 1980. [↩](#fn2)
