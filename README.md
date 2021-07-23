@@ -87,6 +87,8 @@ Many of these variables can be entered into an online retirement calculator like
 
 Although there are variables you cannot control, like federal tax rates, you can adjust variables which are under your control, like savings rates, to make it more likely that you’ll be prepared for an uncertain future. There are also factors which are under your control to a great degree, except in rare situations. Health is a perfect example: most people have the opportunity to reduce expected health care costs by keeping themselves healthy, but it is always possible to be dealt an unavoidable illness or injury. Risks like these are covered in the [next section's guidelines](https://github.com/investindex/Guidelines#minimize-risk-of-catastrophic-loss).
 
+One calculation is worth reviewing here. One might calculate appreciation over time based on an anticipated average rate of return. If you assume a 9% average return over 40 years, the asset will be multiplied by 1.09^40 = 31.41. This is your nominal return. The real return — that which remains after accounting for inflation — is smaller. This is often done by simply subtracting percentages: if we assume 9% average nominal growth and 2.5% average inflation, real returns are 6.5%. Such calculations are not exact. It should be calculated as 1.09/1.025 = 1.0634, or a 6.34% real average return. This gives us a real multiplier of (1.09/1.025)^40 = 11.70. So instead of imagining that your money will multiply by 31.41, remember that your dollars will be worth less in 40 years, and the multiplier will be much more like 11.70.
+
 &nbsp;
 
 [Click here for the next section — Guidelines for financial planning](https://github.com/investindex/Guidelines)
