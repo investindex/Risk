@@ -87,6 +87,8 @@ Many of these variables can be entered into an online retirement calculator like
 
 Although there are variables you cannot control, like federal tax rates, you can adjust variables which are under your control, like savings rates, to make it more likely that you’ll be prepared for an uncertain future. There are also factors which are under your control to a great degree, except in rare situations. Health is a perfect example: most people have the opportunity to reduce expected health care costs by keeping themselves healthy, but it is always possible to be dealt an unavoidable illness or injury. Risks like these are covered in the [next section's guidelines](https://github.com/investindex/Guidelines#minimize-risk-of-catastrophic-loss).
 
+Some of the math needed for retirement planning is more advanced than many people are used to. Everyone should strive to be able to do it on their own, and the details are explained [in the next section](https://github.com/investindex/Guidelines#retirement-math).
+
 &nbsp;
 
 [Click here for the next section — Guidelines for financial planning](https://github.com/investindex/Guidelines)
