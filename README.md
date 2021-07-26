@@ -113,8 +113,6 @@ All sections:
 
 &nbsp;
 
-&nbsp;
-
 Footnotes:
 
 <sup id="f1"> 1 </sup> For funds with minimal risk that _still_ usually have higher returns than money market funds, see ultrashort-term bond funds which hold bonds with an average remaining maturity of one year or less, such as [VUSB](https://investor.vanguard.com/etf/profile/overview/VUSB), [SHV](https://www.ishares.com/us/products/239466/ishares-short-treasury-bond-etf), and [BILS](https://www.ssga.com/us/en/individual/etfs/funds/spdr-bloomberg-barclays-3-12-month-t-bill-etf-bils). [SGOV](https://www.ishares.com/us/products/314116/ishares-0-3-month-treasury-bond-etf) and [BIL](https://www.ssga.com/us/en/individual/etfs/funds/spdr-bloomberg-barclays-1-3-month-t-bill-etf-bil) approximate the risk-free rate of return by investing in US treasury bonds with remaining maturities of three months or less. [↩](#fn1)
