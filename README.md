@@ -91,6 +91,20 @@ Some of the math needed for retirement planning is more advanced than many peopl
 
 &nbsp;
 
+## Market timing and your psychology
+
+This section is incomplete pending an analysis I need to do on market timing.
+
+[This video](https://www.youtube.com/watch?v=9PYsVkPtcXk&ab_channel=BenFelix) on market crashes by Ben Felix was released in the midst of the 2020 COVID-related stock market crash. Its timing within the crisis endows it with the feeling of a coach giving a motivational halftime talk as the team is losing badly. Ben gives exactly the right advice for dealing with losses and provides historical background.
+
+&nbsp;
+
+## Summary
+
+Investment risk has two components: loss due to risk you took, and missed opportunities due to risk you didn’t take. Careful planning helps you balance them. In particular, the stock market provides stunning returns in the long term, but presents the risk of significant loss in the short term. Risk of short-term loss can be dialed down by investing in bonds with differing characteristics, the lowest risk being in short-term US treasury bonds. Retirement planning is complex and imperfect, but planning throughout your life will provide a reality check for your saving and investing habits.
+
+&nbsp;
+
 [Click here for the next section — Guidelines for financial planning](https://github.com/investindex/Guidelines)
 
 &nbsp;
