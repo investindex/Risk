@@ -58,37 +58,6 @@ Could both of these drawdowns happen at the same time? Large declines in the val
 
 So it may be most realistic to work out your financial situation if you needed to draw on your investments at the bottom of an 80% decline in stocks _or_ a 20% decline in long-term bonds. You may also want to consider the even smaller potential drawdowns of other bonds. I will suggest a 5% drawdown for short-term bonds and a 12% drawdown for intermediate-term bonds / aggregate US bond market funds. Keep in mind that this is a rule of thumb optimizing for simplicity, and other reasonable rules exist. The guideline is deliberately conservative, so a vast majority of future drawdowns will not approach these extremes.
 
-### Preparing for the long run
-
-We also need to consider how investments will reward us throughout our life, and especially during retirement. 
-
-Factors over which you exercise some control include:  
--Income during your working years and changes in income over time;  
--Allocation and timing of investments;  
--Use of [tax-advantaged accounts](https://github.com/investindex/Guidelines#tax-advantaged-accounts);  
--At what age you may merge finances with a long-term partner;  
--At what age you may have children;  
--Support you expect to provide to and receive from your family;  
--How much you will spend, save, and invest during working years;  
--How much you will change your spending after retirement;  
--How you will change your investment approach after retirement;  
--Age of retirement;  
--Whether you retire suddenly or continue earning a smaller income for some time;  
--Personal goals such as charitable donations or leaving money for your children.
-
-Factors over which you exercise little or no control include:  
--[Asset class](https://www.investopedia.com/terms/a/assetclasses.asp) returns for stocks and bonds;  
--Inflation rates;  
--Interest rates;  
--Tax rates;  
--Government benefits like Social Security, which may change by the time you retire.
-
-Although there are variables you cannot control, like federal tax rates, you can adjust variables which are under your control, like savings rates, to make it more likely that you’ll be prepared for an uncertain future. There are also factors which are under your control to a great degree, except in rare situations. Health is a perfect example: most people have the opportunity to reduce expected health care costs by keeping themselves healthy, but it is always possible to be dealt an unavoidable illness or injury. Risks like these are covered in the [next section's guidelines](https://github.com/investindex/Guidelines#minimize-risk-of-catastrophic-loss).
-
-Many of these variables can be entered into an online retirement calculator like [this one](https://www.bankrate.com/retirement/calculators/retirement-plan-calculator/). Basic calculators give you an idea of how your saving and investing will add up in the long run, and whether they can sustain you during retirement. But make sure to consider the factors not explicitly included in these calculators, like unexpected support you may need to provide to children or aging parents in middle age, and potentially [very high](https://newsroom.fidelity.com/press-releases/news-details/2021/Fidelitys-20th-Annual-Retiree-Health-Care-Cost-Estimate-Hits-New-High-A-Couple-Retiring-Today-Will-Need-300000-to-Cover-Medical-Expenses-an-88-Increase-Since-2002/default.aspx) medical costs in old age.
-
-Some of the math needed for retirement planning is more advanced than many people are used to. It's important not to rely on opaque calculators and to understand the assumptions behind the numbers that guide your saving and investing. The details of retirement math are explained [in the next section](https://github.com/investindex/Guidelines#retirement-math). These calculations are inevitably based on rough assumptions. The future is uncertain and it’s not possible to include everything that could influence your wealth. But working out imprecise numbers is far better than the vague assumptions that would take their place. Planning your future will also demonstrate how useful it is to keep track of your spending. Exactly how much do you spend on food? How much does car maintenance cost? You will be able to project future spending far more accurately if you record and categorize your current spending. You may also be able to target areas in which you’re spending more than you thought.
-
 &nbsp;
 
 ## Market timing and your psychology
