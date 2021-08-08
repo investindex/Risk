@@ -38,7 +38,7 @@ Finally, behind your long-term bond funds should be the stock index funds introd
 
 One way of assessing how you should distribute your risk is considering what your worst-case scenario would be given a possible distribution. First consider what could go wrong in your life anytime: a totaled car, a health crisis, an unexpected home repair, loss of your income or the income of anyone who might depend on you. Then consider that something like this might happen around the same time that your investments drop significantly in value. This would be unlucky, but your financial planning should account for it.
 
-Another risk to consider is the possibility of not meeting your basic needs and personal goals in the long run. You could keep everything in short-term bonds for decades and never suffer a major loss, but the missed opportunities would be vast. Your approach should not be so conservative that it fails to provide you with enough money throughout your working life or during retirement.
+Another risk to consider is the possibility of not meeting your basic needs and personal goals in the long run. You could keep everything in short-term bonds for decades and never suffer a major loss, but the missed opportunities would be vast. Your approach should not be so conservative that it fails to provide you with enough money throughout your working life or during [retirement](https://github.com/investindex/Guidelines#retirement-planning).
 
 Note the tension between these considerations. Envisioning your long-term goals will push you toward more risk and return, whereas recalling the possibility of loss in the short term will remind you to approach risk carefully.
 
@@ -70,7 +70,7 @@ This section is incomplete pending an analysis I need to do on market timing.
 
 ## Summary
 
-Investment risk has two components: loss due to risk you took, and missed opportunities due to risk you didn’t take. Careful planning helps you balance them. In particular, the stock market provides stunning returns in the long term, but presents the risk of significant loss in the short term. Risk of short-term loss can be dialed down by investing in bonds with differing characteristics, the lowest risk being in short-term US treasury bonds. Retirement planning is complex and imperfect, but planning throughout your life will provide a reality check for your saving and investing habits.
+Investment risk has two components: loss due to risk you took, and missed opportunities due to risk you didn’t take. Careful planning helps you balance them. In particular, the stock market provides stunning returns in the long term, but presents the risk of significant loss in the short term. Risk of short-term loss can be dialed down by investing in bonds with differing characteristics, the lowest risk being in short-term US treasury bonds. Planning and enforcing your own rational behavior is perhaps the hardest part of investing.
 
 &nbsp;
 
