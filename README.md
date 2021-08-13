@@ -70,7 +70,7 @@ This section is incomplete pending an analysis I need to do on market timing.
 
 ## Summary
 
-Investment risk has two components: loss due to risk you took, and missed opportunities due to risk you didn’t take. Careful planning helps you balance them. In particular, the stock market provides stunning returns in the long term, but presents the risk of significant loss in the short term. Risk of short-term loss can be dialed down by investing in bonds with differing characteristics, the lowest risk being in short-term US treasury bonds. Not only do bonds have less volatility overall, but bonds with high credit quality tend to offset losses when stocks drop. In contrast, high-yield bonds tend to fall with stocks. Planning and enforcing your own rational behavior is perhaps the hardest part of investing.
+Investment risk has two components: loss due to risk you took, and missed opportunities due to risk you didn’t take. Careful planning helps you balance them. In particular, the stock market provides stunning returns in the long term, but presents the risk of significant loss in the short term. Risk of short-term loss can be dialed down by investing in bonds with differing characteristics, the lowest risk being in short-term US treasury bonds. Not only do bonds have less volatility overall, but bonds with high credit quality tend to offset losses when stocks plummet. In contrast, high-yield bonds tend to fall with stocks. Planning and enforcing your own rational behavior is perhaps the hardest part of investing.
 
 &nbsp;
 
