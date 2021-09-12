@@ -66,17 +66,9 @@ It is probably not surprising to read that there are smart and dumb ways to take
 
 &nbsp;
 
-## Market timing and your psychology
-
-This section is incomplete pending an analysis I need to do on market timing.
-
-[This video](https://www.youtube.com/watch?v=9PYsVkPtcXk&ab_channel=BenFelix) on market crashes by Ben Felix was released in the midst of the 2020 COVID-related stock market crash. Its timing within the crisis endows it with the feeling of a coach giving a motivational halftime talk as the team is losing badly. Ben gives exactly the right advice for dealing with losses and provides historical background.
-
-&nbsp;
-
 ## Summary
 
-Investment risk has two components: loss due to risk you took, and missed opportunities due to risk you didn’t take. Careful planning helps you balance them. In particular, the stock market provides stunning returns in the long term, but presents the risk of significant loss in the short term. Risk of short-term loss can be dialed down by investing in bonds with differing characteristics, the lowest risk being in short-term US treasury bonds. Not only do bonds have less volatility overall, but bonds with high credit quality tend to (but do not always) offset losses when stocks plummet. In contrast, high-yield bonds tend to fall with stocks. Planning and enforcing your own rational behavior is perhaps the hardest part of investing.
+Investment risk has two components: loss due to risk you took, and missed opportunities due to risk you didn’t take. Careful planning helps you balance them. In particular, the stock market provides stunning returns in the long term, but presents the risk of significant loss in the short term. Risk of short-term loss can be dialed down by investing in bonds with differing characteristics, the lowest risk being in short-term US treasury bonds. Not only do bonds have less volatility overall, but bonds with high credit quality tend to (but do not always) offset losses when stocks plummet. In contrast, high-yield bonds tend to fall with stocks. 
 
 &nbsp;
 
@@ -104,7 +96,7 @@ All sections:
 
 Footnotes:
 
-<sup id="f1"> 1 </sup> What are realistic expectations for stock market returns? First we should understand _inflation_. It will become evident in the next section on [retirement planning](https://github.com/investindex/Guidelines#les-math%C3%A9matiques) that returns after accounting for inflation are what matter to long-term investors. Your return before inflation is called the _nominal return_, and your return after inflation is called the _real return_. Imagine a 10% average annual return over some number of years, accompanied by average annual inflation of 3.5%. To correctly calculate the real return, we need to convert these percentage changes to multipliers. The nominal return of 10% as a multiplier is 1.1, and 3.5% inflation as a multiplier is 1.035, so the real return as a multiplier is 1.1/1.035 = 1.0628, which is a 6.28% real return. There are other paths to the same real return: 7.34% nominal return and 1% inflation provides a real return of 1.0734/1.01 = 1.0628, again 6.28%.
+<sup id="f1"> 1 </sup> What are realistic expectations for stock market returns? First we should understand _inflation_. It will become evident in the section on [retirement planning](https://github.com/investindex/Guidelines#les-math%C3%A9matiques) that returns after accounting for inflation are what matter to long-term investors. Your return before inflation is called the _nominal return_, and your return after inflation is called the _real return_. Imagine a 10% average annual return over some number of years, accompanied by average annual inflation of 3.5%. To correctly calculate the real return, we need to convert these percentage changes to multipliers. The nominal return of 10% as a multiplier is 1.1, and 3.5% inflation as a multiplier is 1.035, so the real return as a multiplier is 1.1/1.035 = 1.0628, which is a 6.28% real return. There are other paths to the same real return: 7.34% nominal return and 1% inflation provides a real return of 1.0734/1.01 = 1.0628, again 6.28%.
 
 What are average stock market returns in real terms (i.e., after inflation)? I will use data from the summary of the [Credit Suisse Global Investment Returns Yearbook 2021](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/credit-suisse-global-investment-returns-yearbook-2021-summary-edition.pdf), which contains data from 1900 through 2020. Globally, the average annual real return was 5.3% (in US dollar terms; Figure 38). After excluding hyperinflation events in Germany and Austria in the early 1920s, average annual inflation was 2.6% (Figure 5). This implies an average nominal return of about 8.0%. The average real return in the US was 6.6%, with an average nominal return of nearly 10%. Although the US had exceptional performance in the past, exceeded by only Australia and South Africa, this does not imply that we can expect the US to outperform the rest of the world over the next several decades.
 
