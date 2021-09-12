@@ -60,6 +60,12 @@ Could both of these drawdowns happen at the same time? Large declines in the val
 
 &nbsp;
 
+## Two types of risk
+
+It is probably not surprising to read that there are smart and dumb ways to take investment risks. Some people seem to find it entertaining to embrace catastrophic risk and and suffer [crippling financial losses](https://www.youtube.com/watch?v=1UY0uS6Z6oE&ab_channel=Benjamin). These smart and dumb types of risk are referred to as _compensated_ and _uncompensated_ risk, respectively. For example, it is riskier to own shares of a globally diversified [fund](https://investor.vanguard.com/etf/profile/VT) of stocks than a globally diversified [fund](https://investor.vanguard.com/etf/profile/BNDW) of bonds. Why are many investors willing to hold stocks despite their greater risks? Because stockholders are _compensated_ for this elevated risk with higher expected return than bondholders. Accepting risk that increases expected return means you are taking a compensated risk. A primary way in which many people assume uncompensated risk is by picking stocks on their own and holding small numbers of stocks. This exposes them to idiosyncratic risks of individual stocks, for which they are not compensated. It should be the goal of an investor to assume only compensated risks.
+
+&nbsp;
+
 ## Market timing and your psychology
 
 This section is incomplete pending an analysis I need to do on market timing.
