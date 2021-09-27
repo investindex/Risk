@@ -86,7 +86,7 @@ The most straightforward method of rebalancing is to sell shares in overweighted
 
 ## Summary
 
-Investment risk has two components: loss due to risk you took, and missed opportunities due to risk you didn’t take. Careful planning helps you balance them. In particular, the stock market provides stunning returns in the long term, but presents the risk of significant loss in the short term. Risk of short-term loss can be dialed down by investing in bonds with differing characteristics, the lowest risk being in short-term US treasury bonds. Not only do bonds have less volatility overall, but bonds with high credit quality tend to (but do not always) offset losses when stocks plummet. In contrast, high-yield bonds tend to fall with stocks. 
+Investment risk has two components: loss due to risk you took, and missed opportunities due to risk you didn’t take. Careful planning helps you balance them. In particular, the stock market provides stunning returns in the long term, but presents the risk of significant loss in the short term. Risk of short-term loss can be dialed down by investing in bonds with differing characteristics, the lowest risk being in short-term US treasury bonds. Not only do bonds have less volatility overall, but bonds with high credit quality tend to (but do not always) offset losses when stocks plummet. In contrast, high-yield bonds tend to fall with stocks. Risk that increases expected return is called compensated risk. Rebalancing is how you conserve the risk and expected return of your portfolio.
 
 &nbsp;
 
