@@ -1,6 +1,6 @@
 # Thinking about risk
 
-“How should I invest my money?” is a question that cannot be avoided — to invest none of it is a tacit decision. Any good answer would be highly personalized, but the right information about risk can help anyone think about these questions.
+“How should I invest my money?” is a question that cannot be avoided — to invest none of it is a tacit decision. Any good answer would be highly personalized, but the right information about risk can help anyone think about this question.
 
 In the context of investment, one can consider risk of loss on a spectrum: some securities can safely be considered to carry no risk, like [certificates of deposit](https://www.investopedia.com/terms/c/certificateofdeposit.asp); some have moderate risk, such as diversified stock funds; and others carry high risk, such as [hedge fund purchases of distressed debt](https://www.investopedia.com/articles/bonds/08/distressed-debt-hedge-fund.asp). The lowest-risk options generate small returns and, in the current low-interest environment, will not even keep pace with inflation. Stock market index funds require the investor to accept meaningful risk, with the potential for much greater reward.
 
