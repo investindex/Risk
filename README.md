@@ -100,7 +100,7 @@ Investment risk has two components: loss due to risk you took, and missed opport
 
 &nbsp;
 
-[Click here for the next section — Guidelines for financial planning](https://github.com/investindex/Guidelines)
+[Click here for the next section — Your psychology](https://github.com/investindex/Psychology)
 
 &nbsp;
 
@@ -109,6 +109,7 @@ All sections:
 * [Cover page](https://github.com/investindex/Intro)
 * [Introduction to index funds](https://github.com/investindex/Index)
 * [Thinking about risk](https://github.com/investindex/Risk)
+* [Your psychology](https://github.com/investindex/Psychology)
 * [Guidelines for financial planning](https://github.com/investindex/Guidelines)
 * [Building a stock portfolio](https://github.com/investindex/Portfolio)
 * [Fund proposals](https://github.com/investindex/Funds)
