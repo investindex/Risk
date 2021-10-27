@@ -84,6 +84,12 @@ It is probably not surprising to read that there are smart and dumb ways to take
 
 &nbsp;
 
+## Are you a stock or a bond?
+
+That's the title of a well-known [book](https://libgen.is/search.php?req=Milevsky+Are+you+a+stock+or+a+bond%3F&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) by Moshe Milevsky. The question refers to the risk of your human capital, also known as labor capital. Your ability to earn income is an enormous asset, and the stability of the cash flow produced by this asset is an important part of the risk you can accept in financial markets. The classic example of a bond-like income is a tenured university professor, who likely has high job security and uniform income across time. A person with stock-like human capital, in contrast, would be a commissioned salesperson in a volatile industry. Even if the professor and salesperson have the same average income and the same expenses, the professor can afford to embrace more risk in her portfolio, because her human capital generates a stable, bond-like cash flow. The salesperson would need to have a much higher risk tolerance to hold the same ratio of stocks to bonds in his brokerage account. If income from someone's line of work is positively correlated to the success of the stock market, they should be [especially eager](https://www.economist.com/finance-and-economics/2018/08/23/are-you-a-stock-or-a-bond) to hold more bonds.
+
+&nbsp;
+
 ## Rebalancing — risk maintenance
 
 The primary influence on the risk of a portfolio is its allocation of stocks and bonds. An 80/20 portfolio — with 80% stocks and 20% bonds — is far riskier than a 20/80 portfolio, with 20% stocks and 80% bonds. Secondarily, the risk-return characteristics are affected by allocation to different stock and bond funds within the two broad categories. As discussed above, bond funds vary in risk based on a combination of credit risk and interest rate risk.
