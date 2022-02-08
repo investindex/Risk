@@ -10,9 +10,13 @@ What do lifetime returns from index funds look like? According to [this article]
 <img src="https://github.com/investindex/Risk/blob/main/S%26P40yr.png" width="264" height="360"/>
 </p>
 
-Keep in mind that between 1980 and 2020, the returns during many individual months and even several calendar years were negative. Most years yielded returns that [deviated significantly](https://www.youtube.com/watch?v=WhYHrHiOS_E&ab_channel=BenFelixBenFelixVerified) from the average: returns such as +20% or -10% should be part of expectations. We can’t be sure what future returns will be — don't count on 11%, which is unusually high.<sup id="fn1">[1](#f1)</sup> But the historical record illustrates that globally diversified index funds carry risk of loss only in the short term; in the long term, they will grow as long as society continues to function normally.
+We can’t be sure what future returns will be — don't count on 11%, which is unusually high.<sup id="fn1">[1](#f1)</sup> But the historical record illustrates that globally diversified index funds carry risk of loss only in the short term; in the long term, they will grow as long as society continues to function normally. Keep in mind that between 1980 and 2020, the returns during many individual months and even several calendar years were negative. Most years yielded returns that [deviated significantly](https://www.youtube.com/watch?v=WhYHrHiOS_E&ab_channel=BenFelixBenFelixVerified) from the average: returns such as +20% or -10% should be part of expectations. See the plot below, which displays calendar year returns in the US market since 2000. Note how far most of the annual returns fall from the average (the purple diamond).
 
 The question which follows for most people is what portion of their wealth is safe to invest in stocks and other assets, given that they may need to draw on investments due to emergencies, insufficient income for normal expenses, or large purchases such as a car or house. The great fear is that, when in need of money, they will turn to the investments meant to expand their wealth and find that instead they have lost value, perhaps drastically. Some forms of this fear are valid and the risks of any investment should be researched before action is taken. If you will _need_ the money you’re considering investing a year from now, and you will need _all_ of it, then stock funds are unsuitable, and any securities with higher risk (such as individual stocks) are unsuitable.
+
+<p align="center">
+<img src="https://github.com/investindex/Risk/blob/main/Expected%20Returns.png" width="720" height="206"/>
+</p>
 
 &nbsp;
 
