@@ -17,7 +17,7 @@ The question which follows for most people is what portion of their wealth is sa
 &nbsp;
 
 <p align="center">
-<img src="https://github.com/investindex/Risk/blob/main/Expected%20Returns.png" width="750" height="215"/>
+<img src="https://github.com/investindex/Risk/blob/main/Expected%20Returns.png" width="800" height="229"/>
 </p>
 
 &nbsp;
