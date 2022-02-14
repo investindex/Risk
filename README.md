@@ -106,7 +106,7 @@ That's the title of a well-known [book](https://libgen.is/search.php?req=Milevsk
 
 ## Rebalancing — risk maintenance
 
-The primary influence on the risk of a portfolio is its allocation of stocks and bonds. An 80/20 portfolio — with 80% stocks and 20% bonds — is far riskier than a 20/80 portfolio, with 20% stocks and 80% bonds. Secondarily, the risk-return characteristics are affected by allocation to different stock and bond funds within the two broad categories. As discussed above, bond funds vary in risk based on a combination of credit risk and interest rate risk.
+The primary influence on the risk of a portfolio is its allocation of stocks and bonds. An 80/20 portfolio — with 80% stocks and 20% bonds — is far riskier than a 20/80 portfolio, with 20% stocks and 80% bonds. Secondarily, the risk-return characteristics are affected by allocation to different stock and bond funds within the two broad categories. As discussed above, bond funds vary in risk based on a combination of term risk and credit risk.
 
 Over time, some portions of a portfolio will depart from their initial allocation. During a [bull market](https://www.investopedia.com/terms/b/bullmarket.asp), in which stock returns are generally positive, stock funds tend to become overweighted. During a [bear market](https://www.investopedia.com/terms/b/bearmarket.asp), in which stock returns are persistently negative, bond funds tend to become overweighted. When weights of different funds drift from their initial weights, the portfolio's risk-return profile changes. The solution to this drift is [rebalancing](https://www.investopedia.com/terms/r/rebalancing.asp), which conserves the portfolio's intended risk level.
 
