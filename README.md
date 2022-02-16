@@ -58,6 +58,8 @@ However, what if you don't want the bond fund to stay the same? Let's say you're
 
 See the [fund proposal section](https://github.com/investindex/Fund/blob/main/README.md#summary) for a summary table of all the suggested bond funds, and additional types of bond funds are discussed in [this footnote](https://github.com/investindex/Fund/blob/main/README.md#f1).
 
+&nbsp;
+
 Finally, behind all your bond funds should be the stock index funds introduced at the beginning. They will generate the bulk of your investment returns. The various funds that could form your stock portfolio will be discussed in later sections. First we should address how to think through allocation of your investments to stocks and the different types of bonds we just introduced.
 
 &nbsp;
