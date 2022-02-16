@@ -56,7 +56,7 @@ Bond funds have multiple advantages over individual bonds: you own a diversified
 
 However, what if you don't want the bond fund to stay the same? Let's say you're saving for a specific goal at the beginning of 2029, and you want the bonds in your portfolio to approach maturity at the end of 2028, becoming gradually less risky as time passes. For those who want this, there are bond funds that mature on a specific date like a bond. You could invest in [IBTI](https://www.ishares.com/us/products/312463/ishares-ibonds-dec-2028-term-treasury-etf-fund) and [BSCS](https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-BSCS), which currently hold intermediate-term bonds, but will hold very short-term bonds in six years. These funds will return all capital after their bonds mature in December 2028. You can choose from BlackRock's [iBonds ETFs](https://www.ishares.com/us/strategies/bond-etfs/build-better-bond-ladders) and Invesco's [Bulletshares ETFs](https://www.invesco.com/us/en/solutions/invesco-etfs/bulletshares-fixed-income-etfs.html).
 
-See the [fund proposal section](https://github.com/investindex/Fund/blob/main/README.md#summary) for a summary table of all the suggested bond funds, and additional types of bond funds are discussed in [this footnote](https://github.com/investindex/Fund/blob/main/README.md#f1).
+See the [fund proposal section](https://github.com/investindex/Fund/blob/main/README.md#summary) for a summary table of all the suggested bond funds. Additional types of bond funds are discussed in [this footnote](https://github.com/investindex/Fund/blob/main/README.md#f1).
 
 &nbsp;
 
