@@ -64,6 +64,14 @@ Finally, behind all your bond funds should be the stock index funds introduced a
 
 &nbsp;
 
+## Total return — a reminder
+
+Total return is a straightforward concept: the return provided by a security over a given period of time if you immediately reinvested all distributions. Yet many amateur investors overlook a crucial implication: you cannot judge a fund's returns by its price chart! If I see that Fund ABC had a share price of $100 at the end of 2020, and a share price of $110 at the end of 2021, it's incorrect to assume that its 2021 return was 10%. All stock and bond funds have distributions, so price charts always understate performance (unless the period of interest is so short that it occurs between quarterly or monthly dividends). You can check any fund's webpage to see its total return, or you can use tools like [Portfolio Visualizer](https://www.portfoliovisualizer.com). The [asset allocation backtest](https://www.portfoliovisualizer.com/backtest-asset-class-allocation) tool lets you compare the total return of various asset classes, and the [portfolio backtest](https://www.portfoliovisualizer.com/backtest-portfolio) tool lets you compare the total return of specific securities.
+
+Another mistake someone can make with a price chart is to use it to judge the duration of a [drawdown](https://www.investopedia.com/terms/d/drawdown.asp). Price charts always exaggerate the amount of time it took for an investor to recover from unrealized losses. This will be important below. Total return is important because it reflects the actual experience of an investor.
+
+&nbsp;
+
 ## Allocation and overall risk
 
 One way of assessing how you should distribute your risk is considering what your worst-case scenario would be given a possible distribution. First consider what could go wrong in your life anytime: a totaled car, a health crisis, an unexpected home repair, loss of your income or the income of anyone who might depend on you. Then consider that something like this might happen around the same time that your investments drop significantly in value. This would be unlucky, but your financial planning should account for it.
