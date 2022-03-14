@@ -114,7 +114,7 @@ Could both of these drawdowns happen at the same time? Large declines in the val
 
 ## Financial markets are prediction machines, not mirrors of current events
 
-If Mark Zuckerberg announced that in six months, he plans to direct his company to buy a billion dollars of [collectible beanie babies](https://www.youtube.com/watch?v=6yc74wAYVVM) as an investment, [FB stock](https://finance.yahoo.com/quote/FB) would likely fall. Notice that the price would not wait until the purchases to occur six months later; the price would fall in _anticipation_ of the poor business decision.
+If Mark Zuckerberg announced that in six months, he plans to direct his company to buy a billion dollars of [collectible beanie babies](https://www.youtube.com/watch?v=6yc74wAYVVM) as an investment, [FB stock](https://finance.yahoo.com/quote/FB) would likely fall. Notice that the reaction would not wait for the purchases to occur six months later; the price would fall in _anticipation_ of the poor business decision.
 
 For the sake of simplicity, I've used language like "bond prices fall when interest rates rise". A more accurate phrasing would be: "Bond prices fall when expectations change in the direction of interest rates rising (or rising more than previously anticipated)." This situation occurred recently: even though the Federal Reserve has not yet increased interest rates, bond prices have fallen significantly since last summer. This is because the Federal Reserve has signaled that it will raise rates more aggressively than previously planned. Bond markets reacted in _anticipation_ of those interest rate hikes; they did not react to them in real time.
 
