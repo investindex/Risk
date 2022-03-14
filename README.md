@@ -112,6 +112,14 @@ Could both of these drawdowns happen at the same time? Large declines in the val
 
 &nbsp;
 
+## Financial markets are prediction machines, not mirrors of current events
+
+If Mark Zuckerberg announced that in six months, he plans to direct his company to buy a billion dollars of [collectible beanie babies](https://www.youtube.com/watch?v=6yc74wAYVVM) as an investment, [FB stock](https://finance.yahoo.com/quote/FB) would likely fall. Notice that the price would not wait until the purchases to occur six months later; the price would fall in _anticipation_ of the poor business decision.
+
+For the sake of simplicity, I've used language like "bond prices fall when interest rates rise". A more accurate phrasing would be: "Bond prices fall when expectations change in the direction of interest rates rising (or rising more than previously anticipated)." This situation occurred recently: even though the Federal Reserve has not yet increased interest rates, bond prices have fallen significantly since last summer. This is because the Federal Reserve has signaled that it will raise rates more aggressively than previously planned. Bond markets reacted in _anticipation_ of those interest rate hikes; they did not react to them in real time.
+
+&nbsp;
+
 ## Two broad types of risk
 
 It is probably not surprising to read that there are smart and dumb ways to take investment risks. Some people seem to find it entertaining to embrace catastrophic risk and and suffer [crippling financial losses](https://www.youtube.com/watch?v=1UY0uS6Z6oE). These smart and dumb types of risk are referred to as _compensated_ and _uncompensated_ risk, respectively. For example, it is riskier to own shares of a globally diversified [fund](https://investor.vanguard.com/etf/profile/VT) of stocks than a globally diversified [fund](https://investor.vanguard.com/etf/profile/BNDW) of bonds. Why are many investors willing to hold stocks despite their greater risk? Because stockholders are _compensated_ for this elevated risk with higher expected return than bondholders. Accepting risk that increases expected return means you are taking a compensated risk.
