@@ -76,9 +76,7 @@ If you redeem the bonds in less than five years, the last three months of intere
 
 See the [fund proposal section](https://github.com/investindex/Fund/blob/main/README.md#summary) for a summary table of all the suggested bond funds. Additional types of bond funds are discussed in [this footnote](https://github.com/investindex/Fund/blob/main/README.md#f1).
 
-&nbsp;
-
-Finally, behind all your bond funds should be the stock index funds introduced at the beginning. They will generate the bulk of your investment returns. The various funds that could form your stock portfolio will be discussed in later sections. First we should address how to think through allocation of your investments to stocks and the different types of bonds we just introduced.
+Let's now address how to think through allocation of your investments to stocks and the different types of bonds we just introduced. But first, a brief interlude from our friend, total return.
 
 &nbsp;
 
