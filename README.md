@@ -118,7 +118,7 @@ If Mark Zuckerberg announced that in six months, he will direct his company to b
 
 For the sake of simplicity, I've used language like "bond prices fall when interest rates rise". A more accurate phrasing would be: "Bond prices fall when expectations change in the direction of interest rates rising (or rising more than previously anticipated)." This situation occurred recently: even though the Federal Reserve has not yet increased interest rates, bond prices have fallen significantly since last summer. This is because the Federal Reserve signaled that it will raise rates more aggressively than previously planned. Bond markets reacted in _anticipation_ of those interest rate hikes; they did not react to them in real time.
 
-The same lesson applies to economic recessions: some people become upset when the stock market starts booming in the middle of a recession, declaring the stock market to be disconnected from the economic struggles of real people. When the stock market begins recovering, it reflects a prediction that further bad news is unlikely to persist, and economic recovery is on the horizon.
+The same lesson applies to economic recessions: some people become upset when the stock market starts booming in the middle of a recession, declaring the stock market to be disconnected from the economic struggles of real people. When the stock market begins recovering, it reflects a prediction that further unexpected bad news is unlikely to persist, and economic recovery is on the horizon.
 
 &nbsp;
 
