@@ -58,6 +58,24 @@ Bond funds have multiple advantages over individual bonds: you own a diversified
 
 However, what if you don't want the bond fund to stay the same? Let's say you're saving for a specific goal at the beginning of 2029, and you want the bonds in your portfolio to approach maturity at the end of 2028, becoming gradually less risky as time passes. For those who want this, there are bond funds that terminate on a specific date like an individual bond. You could invest in [IBTI](https://www.ishares.com/us/products/312463/ishares-ibonds-dec-2028-term-treasury-etf-fund) and [BSCS](https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-BSCS), which currently hold intermediate-term bonds, but will hold very short-term bonds in six years. The bonds will mature throughout 2028 and they will distribute the cash to shareholders in December 2028. They're called term-maturity bond funds or target maturity bond funds, and you can choose from BlackRock's [iBonds ETFs](https://www.ishares.com/us/strategies/bond-etfs/build-better-bond-ladders) and Invesco's [Bulletshares ETFs](https://www.invesco.com/us/en/solutions/invesco-etfs/bulletshares-fixed-income-etfs.html).
 
+#### US Treasury Savings Bonds
+
+US Treasury savings bonds are not tradable on the secondary market: you purchase and redeem them from the US Treasury. They're as close to risk-free as any investment can be. They must be purchased at [treasurydirect.gov](https://www.treasurydirect.gov), not through a brokerage account. Unlike marketable bonds, there is a one-year lock-up period during which you cannot redeem the bonds, so you must be certain you won't need the money for a year.
+
+There are two types, called Series I and Series EE. Series I savings bonds, often just called I-bonds, are linked to inflation. A new rate is set every six months in November and May based on the urban consumer price index (CPI-U). Because inflation is currently high, the annualized rate has been 7.12% since November 2021. Although the interest is linked to the CPI-U, the interest cannot fall below zero even if deflation occurs. These bonds will never lose value.
+
+Series EE bonds are guaranteed to double in value if invested for 20 years. 2^(1/20) = 1.0353, so the interest rate if left for 20 years is a guaranteed 3.53%. The interest rate if cashed out earlier than 20 years is very low, currently at 0.1%. It would make sense to prefer Series EE bonds if (a) you know you'll stay invested for at least 20 years, and (b) you believe that average inflation is likely to be less than 3.53% over the next 20 years. Most people should not choose the Series EE bonds.
+
+The maximum purchase per year is $10,000 of each type of savings bond per person. However, you can add an additional $5,000 per year by overpaying your taxes and directing the IRS to use your refund to buy these bonds. You can also buy another $10,000 if you have (or create) a corporation, using its employer identification number (EIN) instead of your Social Security number. Your spouse and your children also have their own $10,000 limits, so you could buy one in your child's name.
+
+If you buy I-bonds every year, you'll eventually build up a risk-free asset that thrives when inflation is high and can be cashed out at any time (except the most recent year's purchase). This is important, because there are no reliably good investments in high-inflation environments ([gold is not](https://www.youtube.com/watch?v=_f0dns9fHFs&t=1357s), although some people think it is). The government created I-bonds (and [TIPS](https://www.investopedia.com/terms/t/tips.asp)) because inflation, especially unexpectedly high inflation, is so harmful to investments.
+
+If you redeem the bonds in less than five years, the last three months of interest will be forfeited. The interest from these bonds is not _pro rata_ if you buy in the middle of a month (e.g., half the month's interest if bought on the 15th). Instead, the government is magnanimous and will provide the full month's interest regardless of when you buy in a given month. The bonds are exempt from state and local taxes, but are subject to federal income tax when cashed out (unless used for [educational expenses](https://www.thebalance.com/how-to-use-savings-bonds-to-help-pay-for-college-2085509) under certain conditions).
+
+
+
+&nbsp;
+
 See the [fund proposal section](https://github.com/investindex/Fund/blob/main/README.md#summary) for a summary table of all the suggested bond funds. Additional types of bond funds are discussed in [this footnote](https://github.com/investindex/Fund/blob/main/README.md#f1).
 
 &nbsp;
