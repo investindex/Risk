@@ -128,7 +128,11 @@ Could both of these drawdowns happen at the same time? Large declines in the val
 
 &nbsp;
 
-## Financial markets are prediction machines, not mirrors of current events
+&nbsp;
+
+## Further lessons on risk
+
+### Financial markets are prediction machines, not mirrors of current events
 
 If Mark Zuckerberg announced that in six months, he will direct his company to buy a billion dollars of [collectible beanie babies](https://www.youtube.com/watch?v=6yc74wAYVVM) as an investment, [FB stock](https://finance.yahoo.com/quote/FB) would likely fall. Notice that the reaction would not wait for the purchases to occur six months later; the stock price would fall in _anticipation_ of the poor business decision.
 
@@ -138,7 +142,7 @@ The same lesson applies to economic recessions: some people become upset when th
 
 &nbsp;
 
-## Two broad types of risk
+### Two broad types of risk
 
 It is probably not surprising to read that there are smart and dumb ways to take investment risks. Some people seem to find it entertaining to embrace catastrophic risk and and suffer [crippling financial losses](https://www.youtube.com/watch?v=1UY0uS6Z6oE). These smart and dumb types of risk are referred to as _compensated_ and _uncompensated_ risk, respectively. For example, it is riskier to own shares of a globally diversified [fund](https://investor.vanguard.com/etf/profile/VT) of stocks than a globally diversified [fund](https://investor.vanguard.com/etf/profile/BNDW) of bonds. Why are many investors willing to hold stocks despite their greater risk? Because stockholders are _compensated_ for this elevated risk with higher expected return than bondholders. Accepting risk that increases expected return means you are taking a compensated risk.
 
@@ -146,13 +150,13 @@ A primary way in which many people assume uncompensated risk is by picking stock
 
 &nbsp;
 
-## Are you a stock or a bond?
+### Are you a stock or a bond?
 
 That's the title of a well-known [book](https://libgen.rs/search.php?req=Milevsky+Are+you+a+stock+or+a+bond%3F&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) by Moshe Milevsky. The question refers to the risk of your human capital, also known as labor capital. Your ability to earn income is an enormous asset, and the stability of the cash flow produced by this asset is an important part of the risk you can accept in financial markets. The classic example of a bond-like person is a tenured university professor, who likely has high job security and uniform income across time. A person with stock-like human capital, in contrast, might be a commissioned salesperson in a volatile industry. Even if the professor and salesperson have the same average income and the same expenses, the professor can afford to embrace more risk in her portfolio, because her human capital generates a stable, bond-like cash flow. The salesperson would need to have a higher risk tolerance to hold the same ratio of stocks to bonds in his brokerage account. And if income or job security in someone's line of work is positively correlated to the fortunes of the stock market, they should be [especially eager](https://www.economist.com/finance-and-economics/2018/08/23/are-you-a-stock-or-a-bond) to hold more bonds.
 
 &nbsp;
 
-## Rebalancing — risk maintenance
+### Rebalancing — risk maintenance
 
 The primary influence on the risk of a portfolio is its allocation of stocks and bonds. An 80/20 portfolio — with 80% stocks and 20% bonds — is far riskier than a 20/80 portfolio, with 20% stocks and 80% bonds. Secondarily, the risk-return characteristics are affected by allocation to different stock and bond funds within the two broad categories. As discussed above, bond funds vary in risk based on a combination of term risk and credit risk.
 
