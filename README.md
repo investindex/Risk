@@ -230,7 +230,7 @@ Calculations for the 1989-90 drawdown, 2020 crash, Great Recession, and 2000-200
 
 &nbsp;
 
-<sup id="f6"> 6 </sup> The drawdown in 2012-13 was not the most severe for TLT. It peaked on Dec 18 2008 and declined 26.4% by Jun 10 2009, recovering by Aug 18 2011. However, this was due to a brief spike in November and December 2008, so it probably did not affect nearly as many investors as other drawdowns did. There is another more severe drawdown for TLT: its total return chart peaked on Aug 4 2020, fell 21.1% by Mar 18 2021, and has yet to recover. [↩](#fn6)
+<sup id="f6"> 6 </sup> The drawdown in 2012-13 was not the most severe for TLT. It peaked on Dec 18 2008 and declined 26.4% by Jun 10 2009, recovering by Aug 18 2011. However, this was due to a brief spike in November and December 2008, so it probably did not affect nearly as many investors as other drawdowns did. There is another more severe drawdown for TLT: its total return chart peaked on Aug 4 2020, fell 21.4% by Mar 15 2022, and has yet to recover. (Technically there was an even higher peak on Mar 9 2020, but that was true for only a single day.) [↩](#fn6)
 
 &nbsp;
 
