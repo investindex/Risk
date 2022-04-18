@@ -20,6 +20,19 @@ In this period of 22 calendar years, a negative bond return occured in 14% of ye
 
 &nbsp;
 
+Click to move to each section:
+
+* [Understanding bonds and their risks](https://github.com/investindex/Risk#understanding-bonds-and-their-risks)
+* [Investing in bonds and navigating the spectrum of risk](https://github.com/investindex/Risk#investing-in-bonds-and-navigating-the-spectrum-of-risk)
+* [Bond-like bond funds](https://github.com/investindex/Risk#bond-like-bond-funds)
+* [US Treasury Savings Bonds](https://github.com/investindex/Risk#us-treasury-savings-bonds)
+* [Total return — a reminder](https://github.com/investindex/Risk#total-return--a-reminder)
+* [Allocation and overall risk](https://github.com/investindex/Risk#allocation-and-overall-risk)
+* [Further lessons on risk](https://github.com/investindex/Risk#further-lessons-on-risk)
+* [Summary](https://github.com/investindex/Risk#summary)
+
+&nbsp;
+
 ## Understanding bonds and their risks
 
 How can you invest money that can’t be exposed to the volatility of the stock market? The most common way of doing this is through [bonds](https://www.investopedia.com/terms/b/bond.asp). Most people know that banks make money by providing people with loans in exchange for repayment with interest. Like banks, you can invest in debt through bonds, also known as fixed income. Bonds are liquid assets and can be traded, although not as easily as stocks. Anyone can invest in government and corporate bonds through an ETF or mutual fund. Some examples of large bond issuers include the federal US government, Microsoft, Bank of America, and Boeing. A bond fund purchases many bonds representing debt on the part of each bond issuer, and the bond issuers pay the fund. Payments from the bond issuer to the bondholder are called [coupon payments](https://www.investopedia.com/terms/c/coupon.asp), and they usually occur semi-annually. The payments are complete for a particular bond when it reaches maturity. Upon maturity, the issuer pays back the amount they originally borrowed, an amount which is called the face value of the bond. Funds pass on these payments to shareholders in the form of cash dividends. The fund's share price corresponds to the market value of the bonds.
