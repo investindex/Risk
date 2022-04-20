@@ -246,7 +246,7 @@ Calculations for the 1989-90 drawdown, 2020 crash, Great Recession, and 2000-200
 
 &nbsp;
 
-<sup id="f6"> 6 </sup> On Mar 9 2020 there was an even higher peak for TLT than Aug 4 2020, but that was true for only a single day. [↩](#fn6)
+<sup id="f6"> 6 </sup> On Mar 9 2020 there was an even higher peak for TLT than Aug 4 2020, but that was true for only one day. [↩](#fn6)
 
 &nbsp;
 
