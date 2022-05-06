@@ -139,10 +139,10 @@ For high-yield bonds, the 2008 financial crisis was the worst period in modern U
 
 We've reviewed some of the worst experiences for US stocks and bonds, like the 2008 financial crisis and the current nose-dive in bond prices. Such events are expected to be rare, and they are not characteristic of an overwhelming majority of declines in value for stock or long-term bond indices. In particular, many people argue that US financial markets are far more transparent and better-regulated than during the Great Depression era, and that an enduring collapse of stocks like that one is inconceivable now.<sup id="fn7">[[7]](#f7)</sup> Until the Securities Exchange Act of 1934, publicly traded companies were [not required](https://github.com/investindex/Risk/blob/main/SecAct1934.pdf) to disclose information to the public, arguably facilitating the wild speculation of the 1920s. I am tempted to agree that a similar crash is unlikely to occur in developed countries. In his [book on retirement](https://libgen.rs/search.php?req=Swedroe+Grogan+Your+Complete+Guide+to+a+Successful+and+Secure+Retirement&open=0&res=25&view=simple&phrase=1&column=def), Larry Swedroe used 60% as the potential drawdown of stocks for which you should be prepared. This is a reasonable guideline for a highly diversified portfolio (but not a portfolio of ten stocks). However, it cannot be ruled out that US or global stocks could fall by more than 60%. Based on the historical data, I will suggest the following disaster scenarios for financial planning:
 
-* a 5% [drawdown](https://www.investopedia.com/terms/d/drawdown.asp) for short-term bonds
-* a 12.5% drawdown for intermediate-term bonds / aggregate bond funds
-* a 25% drawdown for long-term bonds
-* a 35% drawdown for 20+ year treasuries like [TLT](https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf)
+* a 4-5% [drawdown](https://www.investopedia.com/terms/d/drawdown.asp) for short-term bonds
+* a 12-15% drawdown for intermediate-term bonds / aggregate bond funds
+* a 25-30% drawdown for long-term bonds
+* a 30-35% drawdown for 20+ year treasuries like [TLT](https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf)
 * a 35-40% drawdown for high-yield bonds
 * a 60-80% drawdown for the stock market
 
