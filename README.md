@@ -103,7 +103,7 @@ Total return is a straightforward concept: the return provided by a security ove
 
 Another mistake someone can make with a price chart is to use it to judge the duration of a [drawdown](https://www.investopedia.com/terms/d/drawdown.asp). Price charts always exaggerate the amount of time it took for an investor to recover from unrealized losses — this will be important below.
 
-Remember: total return is the key performance metric because it reflects the actual experience of an investor.
+Total return is the key performance metric because it reflects the actual experience of an investor (before taxes).
 
 &nbsp;
 
