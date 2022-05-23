@@ -141,9 +141,9 @@ We've reviewed some of the worst experiences for US stocks and bonds, like the 2
 
 * a 3-4% [drawdown](https://www.investopedia.com/terms/d/drawdown.asp) for short-term treasury bonds ([VGSH](https://investor.vanguard.com/investment-products/etfs/profile/vgsh))
 * a 5-6% drawdown for short-term bonds ([BSV](https://investor.vanguard.com/investment-products/etfs/profile/bsv))
-* a 10-14% drawdown for intermediate-term bonds / aggregate bond funds ([BIV](https://investor.vanguard.com/investment-products/etfs/profile/biv) / [BNDW](https://investor.vanguard.com/investment-products/etfs/profile/bndw))
+* a 10-14% drawdown for intermediate-term bonds / aggregate bonds ([BIV](https://investor.vanguard.com/investment-products/etfs/profile/biv) / [BNDW](https://investor.vanguard.com/investment-products/etfs/profile/bndw))
 * a 20-30% drawdown for long-term bonds ([BLV](https://investor.vanguard.com/investment-products/etfs/profile/blv))
-* a 25-35% drawdown for 20+ year treasuries ([TLT](https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf))
+* a 25-35% drawdown for 20+ year treasury bonds ([TLT](https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf))
 * a 25-35% drawdown for high-yield bonds ([SPHY](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-high-yield-bond-etf-sphy))
 * a 50-75% drawdown for cap-weighted stocks ([VT](https://investor.vanguard.com/investment-products/etfs/profile/vt))
 
