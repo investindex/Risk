@@ -133,7 +133,11 @@ There are two positive notes to counterbalance this bleak reminder. First, as di
 
 Disasters for long-term bonds are comparatively mild. The market values of bonds, especially those of long-term bonds, are sensitive to changes in interest rates. Take BlackRock's long-term bond ETF ([ILTB](https://www.ishares.com/us/products/239424/ishares-core-longterm-us-bond-etf)) as an example. The worst drawdown for long-term bonds in modern US history is occurring right now: ILTB declined by 25.0% between August 2020 and May 2022. [TLT](https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf) holds treasury bonds with more than 20 years to maturity, so its interest rate risk is very high. TLT's total return chart peaked on Aug 4 2020 and fell 31.8% by May 6 2022.<sup id="fn7">[[7]](#f7)</sup> If history is any guide, recovery is likely to occur within one to two years of the bottom (but we don't yet know if May 6 was the bottom). Potential reduction of drawdowns is one reason to diversify across both government and corporate bonds.
 
-For high-yield bonds, the 2008 financial crisis was the worst period in modern US history. Between May and November 2008, [HYG](https://www.ishares.com/us/products/239565/ishares-iboxx-high-yield-corporate-bond-etf) experienced a drawdown of 33.0%, and recovered by September 2009. During the early COVID-19 pandemic, when US financial markets experienced a rapid contraction and expansion, [USHY](https://www.ishares.com/us/products/291299/) and [SHYG](https://www.ishares.com/us/products/258100/ishares-05-year-high-yield-corporate-bond-etf) drew down by 21.6% and 18.4%, respectively, between February and March 2020. They recovered quickly by November 2020.
+For high-yield bonds, the 2008 financial crisis was the worst period in modern US history. Beginning in May 2007, but mainly between May 2008 and November 2008, [VWEHX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vwehx) experienced a drawdown of 30.2%, and recovered by September 2009. During the early COVID-19 pandemic, when US financial markets experienced a rapid contraction and expansion, [USHY](https://www.ishares.com/us/products/291299/) and [SHYG](https://www.ishares.com/us/products/258100/ishares-05-year-high-yield-corporate-bond-etf) drew down by 21.6% and 18.4%, respectively, between February and March 2020. They recovered quickly by November 2020.
+
+<p align="center">
+<img src="https://github.com/investindex/Risk/blob/main/VWEHX.png" width="630" height="540"/>
+</p>
 
 #### Learning from history
 
