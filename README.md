@@ -191,7 +191,7 @@ The primary influence on the risk of a portfolio is its allocation of stocks and
 
 Over time, some portions of a portfolio will depart from their initial allocation. During a [bull market](https://www.investopedia.com/terms/b/bullmarket.asp), in which stock returns are generally positive, stock funds tend to become overweighted. During a [bear market](https://www.investopedia.com/terms/b/bearmarket.asp), in which stock returns are persistently negative, bond funds tend to become overweighted. When weights of different funds drift from their initial weights, the portfolio's risk-return profile changes. The solution to this drift is [rebalancing](https://www.investopedia.com/terms/r/rebalancing.asp), which conserves the portfolio's intended risk level.
 
-The most straightforward method of rebalancing is to sell shares in overweighted funds and use the cash to buy shares in underweighted funds. For example, an 80/20 allocation might drift to 83/17 during a long bull market. To restore the intended risk-return characteristics, we would sell shares of stock funds and buy shares of bond funds. The mechanics of rebalancing are covered in the [section on practical information](https://github.com/investindex/Practical#dividends-and-rebalancing).
+The most straightforward method of rebalancing is to sell shares in overweighted funds and use the proceeds to buy shares in underweighted funds. For example, an 80/20 allocation might drift to 83/17 during a long bull market. To restore the intended risk-return characteristics, we would sell shares of stock funds and buy shares of bond funds. The mechanics of rebalancing are covered in the [section on practical information](https://github.com/investindex/Practical#dividends-and-rebalancing).
 
 &nbsp;
 
