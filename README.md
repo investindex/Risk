@@ -153,7 +153,7 @@ We've reviewed some of the worst experiences for US stocks and bonds, like the 2
 * a 20-30% drawdown for long-term bonds ([BLV](https://investor.vanguard.com/investment-products/etfs/profile/blv))
 * a 25-35% drawdown for 20+ year treasury bonds ([TLT](https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf))
 * a 25-35% drawdown for high-yield bonds ([SPHY](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-high-yield-bond-etf-sphy))
-* a 30-45% drawdown for US Treasury STRIPS ([EDV](https://investor.vanguard.com/investment-products/etfs/profile/edv))
+* a 30-45% drawdown for long-term US Treasury STRIPS ([EDV](https://investor.vanguard.com/investment-products/etfs/profile/edv))
 * a 50-75% drawdown for cap-weighted stocks ([VT](https://investor.vanguard.com/investment-products/etfs/profile/vt))
 
 A fund like VGSH is not the safest bond fund. Risk of short-term loss can be lowered to nearly zero with funds like [SGOV](https://www.ishares.com/us/products/314116/ishares-0-3-month-treasury-bond-etf) — which invests in US Treasury bonds with maturity in three months or less — and similar [money market funds](https://www.investopedia.com/terms/m/money-marketfund.asp).
