@@ -103,9 +103,9 @@ Total return is a straightforward concept: the return provided by a security ove
 
 Another mistake someone can make with a price chart is to use it to judge the duration of a [drawdown](https://www.investopedia.com/terms/d/drawdown.asp). Price charts always exaggerate the amount of time it took for an investor to recover from unrealized losses — this will be important below.
 
-You can check any fund's webpage to see its total return, or you can use tools like [Portfolio Visualizer](https://www.portfoliovisualizer.com). The [asset allocation backtest](https://www.portfoliovisualizer.com/backtest-asset-class-allocation) tool lets you compare the total returns of various asset classes, and the [portfolio backtest](https://www.portfoliovisualizer.com/backtest-portfolio) tool lets you compare the total returns of specific securities. For daily total return data, you can go to the "Historical Data" tab of any fund's Yahoo! Finance page ([e.g., VT](https://finance.yahoo.com/quote/VT)) and use the [adjusted close](https://help.yahoo.com/kb/SLN28256.html) figures.
-
 Total return is the key performance metric because it reflects the actual experience of an investor (before taxes).
+
+You can check a fund's webpage to see its total return, or you can use tools like [Portfolio Visualizer](https://www.portfoliovisualizer.com). The [asset allocation backtest](https://www.portfoliovisualizer.com/backtest-asset-class-allocation) tool lets you compare the total returns of various asset classes, and the [portfolio backtest](https://www.portfoliovisualizer.com/backtest-portfolio) tool lets you compare the total returns of specific securities. For daily total return data, you can go to the "Historical Data" tab of any fund's Yahoo! Finance page ([e.g., VT](https://finance.yahoo.com/quote/VT)) and use the [adjusted close](https://help.yahoo.com/kb/SLN28256.html) figures.
 
 &nbsp;
 
