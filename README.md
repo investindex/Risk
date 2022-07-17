@@ -164,6 +164,14 @@ A fund like VGSH is not the safest bond fund. Risk of short-term loss can be low
 
 Could all of these drawdowns happen at the same time? Large declines in the value of stocks and high-quality bonds are unlikely to co-occur for very long. In the event of a bear market, the Federal Reserve tends to lower interest rates to encourage borrowing and spending, which boosts long-term bonds. So it may be most realistic to work out your financial situation if you needed to draw on your investments at the bottom of a 50-75% decline in stocks _or_ the suggested declines in various types of high-quality bonds. Bonds with high credit risk are in particular jeopardy when the stock market plummets, so drawdowns of high-yield bonds should be mentally grouped with those of stocks, not other bonds. Keep in mind that this is a rule of thumb optimizing for simplicity, and other reasonable rules exist. The guideline is deliberately conservative, so a vast majority of future drawdowns will not approach these extremes. As discussed in the [first footnote](https://github.com/investindex/Risk#f1), wars and revolutions have caused the stock markets of individual countries to collapse. For US investors this concern is not especially salient in the domestic market, but it speaks to the merits of geographic diversification. The disasters in US history do not reflect the full range of possibilities.
 
+The plot below exhibits an unusual situation which has played out since late last year, in which stocks and bonds have fallen significantly at the same time. It shows the total return of global stocks ([VT](https://investor.vanguard.com/investment-products/etfs/profile/vt)) in purple and global bonds ([BNDW](https://investor.vanguard.com/investment-products/etfs/profile/bndw)) in red. They're both scaled to a value of 100 on Nov 8 2021, because that was the all-time high for VT.
+
+&nbsp;
+
+<p align="center">
+<img src="https://github.com/investindex/Risk/blob/main/2022%20Crash.png" width="629" height="540"/>
+</p>
+
 &nbsp;
 
 &nbsp;
