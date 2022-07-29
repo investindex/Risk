@@ -101,7 +101,7 @@ Total return is the key performance metric because it reflects the actual experi
 
 You can check a fund's webpage to see its total return, or you can use tools like [Portfolio Visualizer](https://www.portfoliovisualizer.com). The [asset allocation backtest](https://www.portfoliovisualizer.com/backtest-asset-class-allocation) tool lets you compare the total returns of various asset classes, and the [portfolio backtest](https://www.portfoliovisualizer.com/backtest-portfolio) tool lets you compare the total returns of specific securities. For daily total return data, you can go to the "Historical Data" tab of any fund's Yahoo! Finance page ([e.g., VT](https://finance.yahoo.com/quote/VT)) and use the [adjusted close](https://help.yahoo.com/kb/SLN28256.html) figures.
 
-The term [drawdown](https://www.investopedia.com/terms/d/drawdown.asp) is worth defining. A drawdown is expressed as a peak-to-trough decline based on the daily [closing prices](https://www.blackrock.com/corporate/literature/whitepaper/viewpoint-a-global-perspective-on-market-on-close-activity-july-2020.pdf) of the security, as well as distributions. A drawdown is not over until the security's total return chart has recovered past its previous peak.
+The term [drawdown](https://www.investopedia.com/terms/d/drawdown.asp) is worth defining. In this guide, a drawdown is expressed as a peak-to-trough decline in terms of total return, based on the daily [closing prices](https://www.blackrock.com/corporate/literature/whitepaper/viewpoint-a-global-perspective-on-market-on-close-activity-july-2020.pdf) of the security. A drawdown is not over until the security's total return chart has recovered past its previous peak.
 
 &nbsp;
 
