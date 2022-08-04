@@ -153,7 +153,7 @@ We've reviewed some of the worst experiences for US stocks and bonds, like the 2
 * a 5-7% drawdown for short-term bonds ([BSV](https://investor.vanguard.com/investment-products/etfs/profile/bsv))
 * a 10-15% drawdown for intermediate-term bonds / aggregate bonds ([BIV](https://investor.vanguard.com/investment-products/etfs/profile/biv) / [BNDW](https://investor.vanguard.com/investment-products/etfs/profile/bndw))
 * a 20-30% drawdown for long-term bonds ([BLV](https://investor.vanguard.com/investment-products/etfs/profile/blv))
-* a 25-35% drawdown for 20+ year treasury bonds ([TLT](https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf))
+* a 25-35% drawdown for 20+ year US Treasury bonds ([TLT](https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf))
 * a 25-35% drawdown for high-yield bonds ([SPHY](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-high-yield-bond-etf-sphy))
 * a 30-45% drawdown for long-term US Treasury STRIPS ([EDV](https://investor.vanguard.com/investment-products/etfs/profile/edv))
 * a 50-75% drawdown for cap-weighted stocks ([VT](https://investor.vanguard.com/investment-products/etfs/profile/vt))
