@@ -190,6 +190,8 @@ The most straightforward method of rebalancing is to sell shares in overweighted
 
 &nbsp;
 
+&nbsp;
+
 ## Bond-like bond funds
 
 Bond funds have multiple advantages over individual bonds: you own a diversified portfolio in a single security; transaction costs are lower because large asset managers trade in bulk; international bond funds can eliminate currency risk through [currency hedging](https://www.investopedia.com/articles/investing/070815/how-currencyhedged-etfs-work.asp); and you can reinvest any amount back into the fund, rather than needing enough to buy more bonds. Finally, bond funds do the work of maintaining the same characteristics over time. If you built your own bond portfolio with an average maturity of six years, a year later the average maturity would be five years, and the risk profile would have changed. But as you get older, a bond _fund_ stays the same age.
