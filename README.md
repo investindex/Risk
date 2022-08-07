@@ -115,7 +115,7 @@ There are two positive notes to counterbalance this bleak reminder. First, as di
 
 &nbsp;
 
-#### Learning from history
+## Learning from history
 
 We've reviewed some of the worst experiences for US stocks and bonds, like the 2008 financial crisis and the current nose-dive in bond prices. Such events are expected to be rare, and they are not characteristic of an overwhelming majority of declines in value for stock or long-term bond indices. In particular, many people argue that US financial markets are far more transparent and better-regulated than during the Great Depression era, and that an enduring collapse of stocks like that one is inconceivable now.<sup id="fn5">[[5]](#f5)</sup> Until the Securities Exchange Act of 1934, publicly traded companies were [not required](https://github.com/investindex/Risk/blob/main/SecAct1934.pdf) to disclose information to the public, arguably facilitating the wild speculation of the 1920s. I am tempted to agree that a similar crash is unlikely to occur in developed countries. In his [book on retirement](https://libgen.rs/search.php?req=Swedroe+Grogan+Your+Complete+Guide+to+a+Successful+and+Secure+Retirement&open=0&res=25&view=simple&phrase=1&column=def), Larry Swedroe used 60% as the potential drawdown of stocks for which you should be prepared. This is a reasonable guideline for a highly diversified portfolio (but not a portfolio of ten stocks). However, it cannot be ruled out that US or global stocks could fall by more than 60%. Based on the historical data, I will suggest the following scenarios for financial planning. Think of the lower bound as a disaster — rare and unusually bad — and the upper bound as a catastrophe — perhaps once or twice in a lifetime.
 
@@ -182,7 +182,7 @@ The most straightforward method of rebalancing is to sell shares in overweighted
 
 &nbsp;
 
-### Bond-like bond funds
+## Bond-like bond funds
 
 Bond funds have multiple advantages over individual bonds: you own a diversified portfolio in a single security; transaction costs are lower because large asset managers trade in bulk; international bond funds can eliminate currency risk through [currency hedging](https://www.investopedia.com/articles/investing/070815/how-currencyhedged-etfs-work.asp); and you can reinvest any amount back into the fund, rather than needing enough to buy more bonds. Finally, bond funds do the work of maintaining the same characteristics over time. If you built your own bond portfolio with an average maturity of six years, a year later the average maturity would be five years, and the risk profile would have changed. But as you get older, a bond _fund_ stays the same age.
 
