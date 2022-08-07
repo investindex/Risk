@@ -29,11 +29,11 @@ The statistical term "[expected return](https://en.wikipedia.org/wiki/Expected_r
 Click to move to each section:
 
 * [Understanding bonds and their risks](https://github.com/investindex/Risk#understanding-bonds-and-their-risks)
-* [Investing in bonds and navigating the spectrum of risk](https://github.com/investindex/Risk#investing-in-bonds-and-navigating-the-spectrum-of-risk)
-* [Bond-like bond funds](https://github.com/investindex/Risk#bond-like-bond-funds)
 * [Total return — a reminder](https://github.com/investindex/Risk#total-return--a-reminder)
-* [Allocation and overall risk](https://github.com/investindex/Risk#allocation-and-overall-risk)
+* [Investing in bonds and navigating the spectrum of risk](https://github.com/investindex/Risk#investing-in-bonds-and-navigating-the-spectrum-of-risk)
+* [Learning from history](https://github.com/investindex/Risk#learning-from-history)
 * [Further lessons on risk](https://github.com/investindex/Risk#further-lessons-on-risk)
+* [Bond-like bond funds](https://github.com/investindex/Risk#bond-like-bond-funds)
 * [US Treasury Savings Bonds](https://github.com/investindex/Risk#us-treasury-savings-bonds)
 * [Summary](https://github.com/investindex/Risk#summary)
 
@@ -75,7 +75,7 @@ Total return is the key performance metric because it reflects the actual experi
 
 You can check a fund's webpage to see its total return, or you can use tools like [Portfolio Visualizer](https://www.portfoliovisualizer.com). The [asset allocation backtest](https://www.portfoliovisualizer.com/backtest-asset-class-allocation) tool lets you compare the total returns of various asset classes, and the [portfolio backtest](https://www.portfoliovisualizer.com/backtest-portfolio) tool lets you compare the total returns of specific securities. For daily total return data, you can go to the "Historical Data" tab of any fund's Yahoo! Finance page ([e.g., VT](https://finance.yahoo.com/quote/VT)) and use the [adjusted close](https://help.yahoo.com/kb/SLN28256.html) figures.
 
-The term [drawdown](https://www.investopedia.com/terms/d/drawdown.asp) is worth defining. In this guide, a drawdown is expressed as a peak-to-trough decline in terms of total return, based on the daily [closing prices](https://www.blackrock.com/corporate/literature/whitepaper/viewpoint-a-global-perspective-on-market-on-close-activity-july-2020.pdf) of the security. A drawdown is not over until the security's total return chart has recovered past its previous peak.
+Now is a good time to define a few common terms. During a [bull market](https://www.investopedia.com/terms/b/bullmarket.asp), returns are generally positive. During a [bear market](https://www.investopedia.com/terms/b/bearmarket.asp), returns are persistently negative. If it's not specified, these terms refer to the stock market, but it's also possible to speak of a bond bear market. In this guide, a [drawdown](https://www.investopedia.com/terms/d/drawdown.asp) is expressed as a peak-to-trough decline in terms of total return, based on the daily [closing prices](https://www.blackrock.com/corporate/literature/whitepaper/viewpoint-a-global-perspective-on-market-on-close-activity-july-2020.pdf) of the security. A drawdown is not over until the security's total return chart has recovered past its previous peak.
 
 &nbsp;
 
