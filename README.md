@@ -226,7 +226,7 @@ If you redeem the bonds in less than five years, the last three months of intere
 
 Investment risk has two components: loss due to risk you took, and missed opportunities due to risk you didn’t take. Careful planning helps you balance them. In particular, the stock market provides stunning returns in the long term, but presents the risk of significant loss in the short term. Risk of short-term loss can be dialed down by investing in bonds with differing characteristics, the lowest risk being in short-term US Treasury bonds. Bonds with high credit quality can (but do not always) offset losses when stocks plummet. In contrast, high-yield bonds tend to fall with stocks.
 
-Financial markets do not react to events in real time; they react to changing expectations about the future. Risk that increases expected return is called compensated risk. You should consider how the risks of investments covary with the security of your income. Rebalancing is how you conserve the risk and expected return of your portfolio. US Treasury savings bonds are sometimes a great alternative to marketable bonds.
+Financial markets do not react to events in real time; they react to changing expectations about the future. Risk that increases expected return is called compensated risk. You should consider how the risks of your investments relate to the security of your income, and how likely you are to lose your job during economic downturns. Rebalancing is how you conserve the risk and expected return of your portfolio. US Treasury savings bonds are sometimes a great alternative to marketable bonds.
 
 &nbsp;
 
