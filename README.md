@@ -50,9 +50,9 @@ We mentioned the term "high-yield bond". What exactly is [yield](https://www.inv
 
 * [Yield to maturity](https://www.investopedia.com/terms/y/yieldtomaturity.asp): the annualized total return paid by a bond if held to maturity, with all coupon payments reinvested.
 
-* [Coupon rate](https://www.investopedia.com/terms/c/coupon-rate.asp): the sum of annual coupon payments divided by the bond's face value.
-
 * [SEC yield](https://www.investopedia.com/terms/s/secyield.asp): a standardized yield that funds must all calculate in precisely the same way, based on yield in the last 30 days.
+
+* [Coupon rate](https://www.investopedia.com/terms/c/coupon-rate.asp): the sum of annual coupon payments divided by the bond's face value. Unlike current yield, SEC yield, and yield to maturity, a bond's coupon rate does not fluctuate over time.
 
 Yield to maturity (YTM) expresses a very important metric for bonds: their expected total return. We can observe yield differences between different bond funds by checking YTM on their webpages. [SGOV](https://www.ishares.com/us/products/314116/ishares-core-sp-500-etf), which holds very short US Treasury bonds, has a YTM of 2.07%, whereas the high-yield bond fund [SPHY](https://www.ishares.com/us/products/314116/ishares-core-sp-500-etf) has a YTM of 8.42%.
 
