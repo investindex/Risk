@@ -154,7 +154,7 @@ The plot below exhibits an unusual situation which has played out since late las
 &nbsp;
 
 <p align="center">
-<img src="https://github.com/investindex/Risk/blob/main/2022%20bear%20market.png" width="630" height="540"/>
+<img src="https://github.com/investindex/Risk/blob/main/2022%20drawdown.png" width="630" height="540"/>
 </p>
 
 &nbsp;
