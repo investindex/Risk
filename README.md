@@ -34,8 +34,8 @@ Click to move to each section:
 * [Investing in bonds and navigating the spectrum of risk](https://github.com/investindex/Risk#investing-in-bonds-and-navigating-the-spectrum-of-risk)
 * [Learning from history](https://github.com/investindex/Risk#learning-from-history)
 * [Further lessons on risk](https://github.com/investindex/Risk#further-lessons-on-risk)
-* [Bond-like bond funds](https://github.com/investindex/Risk#bond-like-bond-funds)
 * [Other types of bonds](https://github.com/investindex/Risk#other-types-of-bonds)
+* [Bond-like bond funds](https://github.com/investindex/Risk#bond-like-bond-funds)
 * [US Treasury Savings Bonds](https://github.com/investindex/Risk#us-treasury-savings-bonds)
 * [Summary](https://github.com/investindex/Risk#summary)
 
@@ -202,21 +202,25 @@ That's the title of a [book](https://libgen.rs/search.php?req=Milevsky+Are+you+a
 
 &nbsp;
 
+## Other types of bonds
+
+US Treasury bonds are taxed only at the federal level. Municipal bonds are issued by state or local jurisdictions, and they have even more tax benefits. Income from muni bonds is tax-free at the federal level, and tax-free at the state level if the bond is issued by your home state (or by any US territory like Puerto Rico). Due to their tax benefits, muni bonds have lower yields than they otherwise would. This makes them worthwhile only for those with high income, because avoiding tax is especially valuable for those who pay a high marginal tax rate. If you consider investing in municipal bonds, make sure you understand their [fairly complex](https://www.investopedia.com/ask/answers/060215/how-are-municipal-bonds-taxed.asp) tax policy — certain capital gains are still taxable — and the potentially [weird dynamics](https://www.wsj.com/articles/municipal-bonds-suddenly-look-cheap-some-are-tax-traps-11662735718) that follow from their mostly tax-exempt status. Nearly all muni bond funds have higher expense ratios than more typical bond funds, so I would consider purchasing the bonds directly.
+
+Many international bonds are denominated in US dollars, but many are not. This exposes USD investors to changes in the value of USD relative to other currencies. International bond funds like [BNDX](https://investor.vanguard.com/investment-products/etfs/profile/bndx) are [currency hedged](https://www.investopedia.com/articles/investing/070815/how-currencyhedged-etfs-work.asp): they use financial derivatives to neutralize the effects of currency fluctuations. Those choosing not to hedge experience lower returns when the US dollar strengthens against other currencies, and greater returns when the US dollar declines. I recommend investing only in hedged bond funds like BNDX, and avoiding the currency risk in unhedged funds like [IGOV](https://www.ishares.com/us/products/239830/ishares-international-treasury-bond-etf) and [EBND](https://www.ssga.com/us/en/individual/etfs/funds/spdr-bloomberg-emerging-markets-local-bond-etf-ebnd).
+
+It's not an inherently bad idea to invest in unhedged bonds: it will sometimes increase your returns and sometimes decrease them. In the long run, there is no advantage expected from either approach. As Ben Felix explained in [this video](https://www.youtube.com/watch?v=K3flJjh00gA): "Whatever you choose to do, understand that there will be times when you wish that you had done something different. ... At those times, the worst thing that you can do is change what you are doing." This is great investing advice in general!
+
+&nbsp;
+
+&nbsp;
+
 ## Bond-like bond funds
 
-Bond funds have multiple advantages over individual bonds: you own a diversified portfolio in a single security; transaction costs are lower because large asset managers trade in bulk; international bond funds can eliminate currency risk through [currency hedging](https://www.investopedia.com/articles/investing/070815/how-currencyhedged-etfs-work.asp); and you can reinvest any amount back into the fund, rather than needing enough to buy more bonds. Finally, bond funds do the work of maintaining the same characteristics over time. If you built your own bond portfolio with an average maturity of six years, a year later the average maturity would be five years, and the risk profile would have changed. But as you get older, a bond _fund_ stays the same age.
+Bond funds have multiple advantages over individual bonds: you own a diversified portfolio in a single security; transaction costs are lower because large asset managers trade in bulk; international bond funds can eliminate currency risk through currency hedging; and you can reinvest any amount back into the fund, rather than needing enough to buy more bonds. Finally, bond funds do the work of maintaining the same characteristics over time. If you built your own bond portfolio with an average maturity of six years, a year later the average maturity would be five years, and the risk profile would have changed. But as you get older, a bond _fund_ stays the same age.
 
 However, what if you don't want the bond fund to stay the same? Let's say you're saving for a specific goal at the beginning of 2029, and you want the bonds in your portfolio to approach maturity at the end of 2028, becoming gradually less risky as time passes. Many people think the only way to achieve this stream of returns is by purchasing individual bonds: with high-quality bonds, the expected return is nearly guaranteed if you can wait until maturity. But for those who want this, there are bond funds that terminate on a specific date like an individual bond. You could invest in [IBTI](https://www.ishares.com/us/products/312463/ishares-ibonds-dec-2028-term-treasury-etf-fund) and [BSCS](https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-BSCS), which currently hold intermediate-term bonds, but will hold very short-term bonds in six years. The bonds will mature throughout 2028, and the funds will distribute remaining cash to shareholders in December 2028 and close down. They're called term-maturity bond funds or target maturity bond funds, and you can choose from BlackRock's [iBonds ETFs](https://www.ishares.com/us/strategies/bond-etfs/build-better-bond-ladders) and Invesco's [Bulletshares ETFs](https://www.invesco.com/us/en/solutions/invesco-etfs/bulletshares-fixed-income-etfs.html).
 
 Except for a situation like the one I described — in which you're investing for a spending event at a particular point in time — these funds are probably not suitable. Perhaps there is psychological comfort in knowing that you can wait out price volatility until the bonds reach maturity on a certain date, but there is no real benefit. For most investing objectives, a bond portfolio that becomes gradually less risky does not make sense.
-
-&nbsp;
-
-&nbsp;
-
-## Other types of bonds
-
-US Treasury bonds are tax-exempt except at the federal level. Municipal bonds are issued by state or local jurisdictions, and they have even more tax benefits. Income from muni bonds is tax-free at the federal level, and tax-free at the state level if the bond is issued by your home state (or by any US territory like Puerto Rico). Due to their tax benefits, muni bonds have lower yields than they otherwise would. This makes them worthwhile only for those with high income, because avoiding tax is especially valuable for those who pay a high marginal tax rate. If you consider investing in municipal bonds, make sure you understand their fairly complex tax policy — certain capital gains are still taxable — and the potentially [weird dynamics](https://www.wsj.com/articles/municipal-bonds-suddenly-look-cheap-some-are-tax-traps-11662735718) that follow from their mostly tax-exempt status. Nearly all muni bond funds have higher expense ratios than more typical bond funds, so I would consider purchasing the bonds directly.
 
 &nbsp;
 
