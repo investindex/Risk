@@ -35,6 +35,7 @@ Click to move to each section:
 * [Learning from history](https://github.com/investindex/Risk#learning-from-history)
 * [Further lessons on risk](https://github.com/investindex/Risk#further-lessons-on-risk)
 * [Bond-like bond funds](https://github.com/investindex/Risk#bond-like-bond-funds)
+* [Other types of bonds](https://github.com/investindex/Risk#other-types-of-bonds)
 * [US Treasury Savings Bonds](https://github.com/investindex/Risk#us-treasury-savings-bonds)
 * [Summary](https://github.com/investindex/Risk#summary)
 
@@ -208,6 +209,14 @@ Bond funds have multiple advantages over individual bonds: you own a diversified
 However, what if you don't want the bond fund to stay the same? Let's say you're saving for a specific goal at the beginning of 2029, and you want the bonds in your portfolio to approach maturity at the end of 2028, becoming gradually less risky as time passes. Many people think the only way to achieve this stream of returns is by purchasing individual bonds: with high-quality bonds, the expected return is nearly guaranteed if you can wait until maturity. But for those who want this, there are bond funds that terminate on a specific date like an individual bond. You could invest in [IBTI](https://www.ishares.com/us/products/312463/ishares-ibonds-dec-2028-term-treasury-etf-fund) and [BSCS](https://www.invesco.com/us/financial-products/etfs/product-detail?productId=ETF-BSCS), which currently hold intermediate-term bonds, but will hold very short-term bonds in six years. The bonds will mature throughout 2028, and the funds will distribute remaining cash to shareholders in December 2028 and close down. They're called term-maturity bond funds or target maturity bond funds, and you can choose from BlackRock's [iBonds ETFs](https://www.ishares.com/us/strategies/bond-etfs/build-better-bond-ladders) and Invesco's [Bulletshares ETFs](https://www.invesco.com/us/en/solutions/invesco-etfs/bulletshares-fixed-income-etfs.html).
 
 Except for a situation like the one I described — in which you're investing for a spending event at a particular point in time — these funds are probably not suitable. Perhaps there is psychological comfort in knowing that you can wait out price volatility until the bonds reach maturity on a certain date, but there is no real benefit. For most investing objectives, a bond portfolio that becomes gradually less risky does not make sense.
+
+&nbsp;
+
+&nbsp;
+
+## Other types of bonds
+
+US Treasury bonds are tax-exempt except at the federal level. Municipal bonds are issued by state or local jurisdictions, and they have even more tax benefits. Income from muni bonds is tax-free at the federal level, and tax-free at the state level if the bond is issued by your home state (or by any US territory like Puerto Rico). Due to their tax benefits, muni bonds have lower yields than they otherwise would. This makes them worthwhile only for those with high income, because avoiding tax is especially valuable for those who pay a high marginal tax rate. If you consider investing in municipal bonds, make sure you understand their fairly complex tax policy — certain capital gains are still taxable — and the potentially [weird dynamics](https://www.wsj.com/articles/municipal-bonds-suddenly-look-cheap-some-are-tax-traps-11662735718) that follow from their mostly tax-exempt status. Nearly all muni bond funds have higher expense ratios than more typical bond funds, so I would consider purchasing the bonds directly.
 
 &nbsp;
 
