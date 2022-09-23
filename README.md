@@ -55,7 +55,7 @@ We mentioned the term "high-yield bond". What exactly is [yield](https://www.inv
 
 * [Coupon rate](https://www.investopedia.com/terms/c/coupon-rate.asp): the sum of annual coupon payments divided by the bond's face value. Unlike the other types of yield, the coupon rate of a bond with fixed coupon payments does not fluctuate over time.
 
-Yield to maturity (YTM) expresses a very important metric for bonds: their expected total return. We can observe yield differences between different bond funds by checking YTM on their webpages. [SGOV](https://www.ishares.com/us/products/314116/ishares-core-sp-500-etf), which holds very short US Treasury bonds, has a YTM of 2.19%, whereas the high-yield bond fund [SPHY](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-high-yield-bond-etf-sphy) has a YTM of 8.45%.
+Yield to maturity (YTM) expresses a very important metric for bonds: their expected total return. We can observe yield differences between different bond funds by checking YTM on their webpages. [SGOV](https://www.ishares.com/us/products/314116/ishares-core-sp-500-etf), which holds very short US Treasury bonds, has a YTM of 2.44%, whereas the high-yield bond fund [SPHY](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-high-yield-bond-etf-sphy) has a YTM of 9.04%.
 
 Bonds present two broad dimensions of risk.
 
