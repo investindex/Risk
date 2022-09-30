@@ -120,7 +120,7 @@ Stocks are very risky assets. Volatility is routine in the stock market. In Octo
 Less commonly, this process can also take several years. The 55% decline beginning in October 2007 lasted until March 2009, and persistent recovery above the previous peak did not arrive until August 2012, nearly five years after the drawdown began. The global financial crisis of 2008 was not the only deep, extended period of loss in modern history: a bear market starting in January 1973 did not see its bottom until October 1974 — a 47% loss — or a persistent recovery until May 1978, for a total of more than five years. A drawdown of similar depth occurred in the early 2000s, with recovery by 2006.<sup id="fn4">[[4]](#f4)</sup> Keep in mind that the bear markets in 1973-74, 2000-02, and 2007-09 were unusually severe; only the Great Depression was deeper. The take-home message is that periods of major unrealized loss vary greatly, and this uncertainty is part of the psychological struggle. Participation in the stock market means being prepared for a multiyear period in which returns are zero.
 
 <p align="center">
-<img src="https://github.com/investindex/Risk/blob/main/2008%20GFZ.png"/>
+<img src="https://github.com/investindex/Risk/blob/main/2008%20GFM.png"/>
 </p>
 
 &nbsp;
