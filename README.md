@@ -135,6 +135,12 @@ Less commonly, this process can also take several years. The 55% decline beginni
 <img src="https://github.com/investindex/Risk/blob/main/2008%20GFZ.png"/>
 </p>
 
+&nbsp;
+
+<p align="center">
+<img src="https://github.com/investindex/Risk/blob/main/2008%20GFC.png"/>
+</p>
+
 <!--
 width="630" height="540"
 -->
