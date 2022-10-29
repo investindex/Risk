@@ -304,7 +304,7 @@ The [yield curve](https://en.wikipedia.org/wiki/Yield_curve) is another essentia
 
 &nbsp;
 
-<sup id="f3"> 3 </sup> Money market funds don't have a perfect record of protecting the principal investment. Most recently, in 2008 a large money fund "broke the buck" during the financial crisis. Loss was due to exposing the fund to excessive credit risk. See [these](https://www.wsj.com/articles/SB122160102128644897) [articles](https://www.wsj.com/articles/SB122221670259769371). If you'd like to eliminate credit risk, you can invest in funds with US Treasury bills: [SPAXX](https://fundresearch.fidelity.com/mutual-funds/summary/31617H102) at Fidelity, [SNVXX](https://www.schwabassetmanagement.com/products/snvxx) at Schwab, or [SGOV](https://www.ishares.com/us/products/314116/ishares-core-sp-500-etf). [↩](#fn3)
+<sup id="f3"> 3 </sup> Money market funds don't have a perfect record of protecting the principal investment. Most recently, in 2008 a large money fund "broke the buck" during the financial crisis. Loss was due to exposing the fund to excessive credit risk. See [these](https://www.wsj.com/articles/SB122160102128644897) [articles](https://www.wsj.com/articles/SB122221670259769371) from the WSJ. If you'd like to eliminate credit risk, you can invest in funds with US Treasury bills: [SPAXX](https://fundresearch.fidelity.com/mutual-funds/summary/31617H102) at Fidelity, [SNVXX](https://www.schwabassetmanagement.com/products/snvxx) at Schwab, or [SGOV](https://www.ishares.com/us/products/314116/ishares-core-sp-500-etf). [↩](#fn3)
 
 &nbsp;
 
