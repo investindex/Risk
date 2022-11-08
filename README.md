@@ -29,7 +29,7 @@ The statistical term "[expected return](https://en.wikipedia.org/wiki/Expected_r
 Click to move to each section:
 
 * [Understanding bonds and their risks](https://github.com/investindex/Risk#understanding-bonds-and-their-risks)
-* [Total return — a reminder](https://github.com/investindex/Risk#total-return--a-reminder)
+* [Total return](https://github.com/investindex/Risk#total-return)
 * [Investing in bonds and navigating the spectrum of risk](https://github.com/investindex/Risk#investing-in-bonds-and-navigating-the-spectrum-of-risk)
 * [Learning from history](https://github.com/investindex/Risk#learning-from-history)
 * [Further lessons on risk](https://github.com/investindex/Risk#further-lessons-on-risk)
@@ -76,7 +76,7 @@ We'll explore how bond funds fit in your portfolio. But first, a brief interlude
 
 &nbsp;
 
-## Total return — a reminder
+## Total return
 
 Total return is a straightforward concept: the return provided by a security over a given period of time if you immediately reinvested all distributions. Yet many investors overlook a crucial implication: you cannot judge a fund's returns by its price chart! If I see that Fund ABC had a share price of $100 at the end of 2020, and a share price of $110 at the end of 2021, it's incorrect to assume that its 2021 return was 10%. Virtually all US-listed stock and bond funds have distributions, so price charts always understate performance (unless the period of interest is so short that it occurs between quarterly or monthly dividends).
 
