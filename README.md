@@ -327,14 +327,14 @@ Calculations for the 1989-90 drawdown, 2020 crash, Great Recession, and 2000-200
 <sup id="f6"> 6 </sup> Cliff Asness wrote in a [2014 opinion piece](https://www.aqr.com/Insights/Research/Journal-Article/My-Top-10-Peeves):
 
 > Many advisers and investors say things like, “You should own bonds directly, not bond funds, because bond funds can fall in value but you can always hold a bond to maturity and get your money back.” Let me try to be polite: Those who say this belong in one of Dante’s circles at about three and a half (between gluttony and greed).
-
+>
 > Bond funds are just portfolios of bonds marked to market every day. How can they be worse than the sum of what they own? The option to hold a bond to maturity and “get your money back” (let’s assume no default risk, you know, like we used to assume for US government bonds) is, apparently, greatly valued by many but is in reality valueless. The day interest rates go up, individual bonds fall in value just like the bond fund. By holding the bonds to maturity, you will indeed get your principal back, but in an environment with higher interest rates and inflation, those same nominal dollars will be worth less. The excitement about getting your nominal dollars back eludes me.
-
+>
 > But getting your dollars back at maturity isn’t even the real issue. Individual bond prices are published in the same newspapers that publish bond fund prices, although many don’t seem to know that. If you own the bond fund that fell in value, you can sell it right after the fall and still buy the portfolio of individual bonds some say you should have owned to begin with (which, again, also fell in value!). Then, if you really want, you can still hold these individual bonds to maturity and get your irrelevant nominal dollars back. It’s just the same thing.
-
+>
 > Those believing in the subject fallacy often also assert that another negative feature of bond funds is that “they never mature” whereas individual bonds do. That’s true. I’m not sure why anyone would care, but it’s true. But the real irony is that it’s only true for individual bonds—not the actual individual bond portfolio these same investors usually own. Investors in individual bonds typically reinvest the proceeds of maturing bonds in new long-term bonds (often through the use of a “laddered portfolio”). In other words, their portfolio of individual bonds, each of which individually has the wonderful property of eventually maturing, never itself matures. Again, this is precisely like the bond funds that they believe they must avoid at all costs.
 
-There is nothing magical about holding a bond to maturity. [↩](#fn6)
+There is nothing magical about holding a bond to maturity. As you hold a bond to maturity, the potential downside _and_ upside of interest rate changes gradually decrease. [↩](#fn6)
 
 &nbsp;
 
