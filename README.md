@@ -160,7 +160,7 @@ The plot below exhibits an unusual situation which began late last year, in whic
 &nbsp;
 
 <p align="center">
-<img src="https://github.com/investindex/Risk/blob/main/2022%20crashes.png"/>
+<img src="https://github.com/investindex/Risk/blob/main/2022%20crash.png"/>
 </p>
 
 &nbsp;
