@@ -8,11 +8,11 @@ See the plot below, which displays calendar year returns in the US [stock](https
 
 A negative bond return occured in 14% of rolling years, and a negative stock return in 22% of rolling years. Viewing only annual returns obscures a lot of volatility — we can zoom in on monthly and daily returns. For US [bonds](https://finance.yahoo.com/quote/VBTIX/history?p=VBTIX), 33% of rolling months and 39% of days were negative. For US [stocks](https://finance.yahoo.com/quote/VITSX/history?p=VITSX), 35% of rolling months and 45% of days were negative. This illustrates one of the essential lessons of investing in volatile assets: returns in the short term are often negative — a single day is nearly a coin flip for stocks. But diversified investors can be assured that as they invest over long periods, their probability of reaping a positive return creeps up toward 100%.
 
-The statistical term "[expected return](https://en.wikipedia.org/wiki/Expected_return)" means that out of the distribution of possible returns, that is the average return. Statistical expectation is counterintuitive: the expected value of rolling a six-sided die is 3.5, because that's the average of the possible outcomes {1,2,3,4,5,6}, and they're all equally likely. The expected value is 3.5 even though it's not a possible outcome! Stocks may have an expected return around 8%, but we don't actually anticipate a return close to 8% very often. Below, stock returns are widely distributed around the mean, so you should expect returns much higher or lower than 8% more often than returns that are roughly 8%. See [this video](https://www.youtube.com/watch?v=WhYHrHiOS_E) for a great explanation.
-
 <p align="center">
 <img src="https://github.com/investindex/Risk/blob/main/Expected%20Return.png" width="859" height="246"/>
 </p>
+
+The statistical term "[expected return](https://en.wikipedia.org/wiki/Expected_return)" means that out of the distribution of possible returns, that is the average return. Statistical expectation is counterintuitive: the expected value of rolling a six-sided die is 3.5, because that's the average of the possible outcomes {1,2,3,4,5,6}, and they're all equally likely. The expected value is 3.5 even though it's not a possible outcome! Stocks may have an expected return around 8%, but we don't actually anticipate a return close to 8% very often. Below, stock returns are widely distributed around the mean, so you should expect returns much higher or lower than 8% more often than returns that are roughly 8%. See [this video](https://www.youtube.com/watch?v=WhYHrHiOS_E) for a great explanation.
 
 &nbsp;
 
