@@ -136,7 +136,7 @@ Many people argue that US financial markets are far more transparent and better-
 * a 5-9% drawdown for short-term bonds ([BSV](https://investor.vanguard.com/investment-products/etfs/profile/bsv))
 * a 10-20% drawdown for intermediate-term bonds / aggregate funds ([BIV](https://investor.vanguard.com/investment-products/etfs/profile/biv) / [BNDW](https://investor.vanguard.com/investment-products/etfs/profile/bndw))
 * a 20-40% drawdown for long-term bonds ([BLV](https://investor.vanguard.com/investment-products/etfs/profile/blv))
-* a 25-40% drawdown for high-yield bonds ([SPHY](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-high-yield-bond-etf-sphy))
+* a 25-45% drawdown for high-yield bonds ([SPHY](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-high-yield-bond-etf-sphy))
 * a 25-45% drawdown for 20+ year US Treasury bonds ([TLT](https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf))
 * a 30-60% drawdown for long-term US Treasury STRIPS ([EDV](https://investor.vanguard.com/investment-products/etfs/profile/edv), [ZROZ](https://www.pimco.com/en-us/investments/etf/25-year-zero-coupon-us-treasury-index-exchange-traded-fund))
 * a 50-75% drawdown for cap-weighted stocks ([VT](https://investor.vanguard.com/investment-products/etfs/profile/vt))
