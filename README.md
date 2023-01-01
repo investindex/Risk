@@ -11,7 +11,7 @@ In this period of 28 calendar years — a small sample — a negative bond retur
 The statistical term "[expected return](https://en.wikipedia.org/wiki/Expected_return)" means that out of the distribution of possible returns, that is the average return. Statistical expectation is counterintuitive: the expected value of rolling a six-sided die is 3.5, because that's the average of the possible outcomes {1,2,3,4,5,6}, and they're all equally likely. The expected value is 3.5 even though it's not a possible outcome! Stocks may have an "expected return" of 8%, but we don't actually anticipate a return close to 8% very often. Below, stock returns are widely distributed around the mean, so you should expect returns much higher or lower than 8% more often than returns that are roughly 8%. See [this video](https://www.youtube.com/watch?v=WhYHrHiOS_E) for a great explanation.
 
 <p align="center">
-<img src="https://github.com/investindex/Risk/blob/main/Expected%20Return.png" width="661" height="189"/>
+<img src="https://github.com/investindex/Risk/blob/main/Expected%20Return.png" width="859" height="246"/>
 </p>
 
 &nbsp;
