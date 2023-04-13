@@ -48,7 +48,7 @@ We mentioned the term "high-yield bond". What exactly is [yield](https://www.inv
 
 Bond prices and yields have an inverse relationship. When you read in _The Wall Street Journal_ that yields fell today, you can infer that prices rose.
 
-Yield to maturity (YTM) expresses a very important metric for bonds: their expected total return. We can observe yield differences between bond funds by checking YTM on their webpages. [SGOV](https://www.ishares.com/us/products/314116/ishares-core-sp-500-etf), which holds very short US Treasury bonds, has a YTM of 4.32%, whereas the high-yield bond fund [SPHY](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-high-yield-bond-etf-sphy) has a YTM of 8.85%. The SEC yield includes the expense ratio, but YTM does not. So for the true YTM of a bond fund, subtract the expense ratio.
+Yield to maturity (YTM) expresses a very important metric for bonds: their expected total return. We can observe yield differences between bond funds by checking YTM on their webpages. [SGOV](https://www.ishares.com/us/products/314116/ishares-core-sp-500-etf), which holds very short US Treasury bonds, has a YTM of 4.27%, whereas the high-yield bond fund [SPHY](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-high-yield-bond-etf-sphy) has a YTM of 8.56%. The SEC yield includes the expense ratio, but YTM does not. So for the true YTM of a bond fund, subtract the expense ratio.
 
 Bonds present two broad dimensions of risk.
 
