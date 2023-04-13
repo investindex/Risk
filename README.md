@@ -36,13 +36,17 @@ How can you invest money that can’t be exposed to the volatility of the stock 
 
 Individual stocks and bonds vary greatly in their risk but, as a whole, bonds have less risk and less long-term return than stocks. This is partly because, if a company declares bankruptcy, the bondholders' claim to company assets takes priority over that of common stockholders (with [rare exceptions](https://www.wsj.com/articles/analysis-banks-could-pause-issuing-new-at1-bonds-due-to-their-high-cost-9fec0b51)). If a bond issuer is unable to pay their debt, this is referred to as [default](https://www.investopedia.com/terms/d/defaultrisk.asp). Bonds which are less likely to be paid back in full tend to command higher returns to accompany their risk. US Treasury bonds are less risky than corporate bonds, and corporate bonds are divided into two broad categories based on [credit quality](https://www.investopedia.com/terms/c/creditquality.asp): investment-grade bonds (with comparatively low risk) and [high-yield bonds](https://www.investopedia.com/terms/h/high_yield_bond.asp) (also known as junk bonds).
 
-We mentioned the term "high-yield bond". What exactly is [yield](https://www.investopedia.com/terms/b/bond-yield.asp)? There are various types of yield, and one important type is current yield: the sum of a bond's annual coupon payments divided by its current market price. If bond prices rise, then the current yield falls. When you read in _The Wall Street Journal_ that bond yields fell today, they're referring to current yield. And because current yield has an inverse relationship with bond prices, you can infer that prices rose. Some other types of yield are defined in the following ways:
+We mentioned the term "high-yield bond". What exactly is [yield](https://www.investopedia.com/terms/b/bond-yield.asp)? There are various types:
+
+* [Current yield](https://www.investopedia.com/terms/c/currentyield.asp): the sum of a bond's annual coupon payments divided by its current market price.
 
 * [Yield to maturity](https://www.investopedia.com/terms/y/yieldtomaturity.asp): the annualized total return paid by a bond if held to maturity, with all coupon payments reinvested.
 
 * [SEC yield](https://www.investopedia.com/terms/s/secyield.asp): a standardized yield that bond funds must all calculate in the same way, based on yield in the last 30 days.
 
 * [Coupon rate](https://www.investopedia.com/terms/c/coupon-rate.asp): the sum of annual coupon payments divided by the bond's face value. Unlike the other types of yield, the coupon rate of a bond with fixed coupon payments does not fluctuate over time.
+
+If bond prices fall, this implies that yields rose. When you read in _The Wall Street Journal_ that yields fell today, you can infer that prices rose.
 
 Yield to maturity (YTM) expresses a very important metric for bonds: their expected total return. We can observe yield differences between bond funds by checking YTM on their webpages. [SGOV](https://www.ishares.com/us/products/314116/ishares-core-sp-500-etf), which holds very short US Treasury bonds, has a YTM of 4.32%, whereas the high-yield bond fund [SPHY](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-high-yield-bond-etf-sphy) has a YTM of 8.85%. The SEC yield includes the expense ratio, but YTM does not. So for the true YTM of a bond fund, subtract the expense ratio.
 
