@@ -211,7 +211,7 @@ Many international bonds are denominated in US dollars, but many are not. This e
 
 It's not an inherently bad idea to invest in unhedged bonds: it will sometimes increase your returns and sometimes decrease them. In the long run, there is no advantage expected from either approach. As Ben Felix explained in [this video](https://www.youtube.com/watch?v=K3flJjh00gA): "Whatever you choose to do, understand that there will be times when you wish that you had done something different. ... At those times, the worst thing that you can do is change what you are doing." This is great investing advice in general!
 
-International stocks are also exposed to currency fluctuations: they perform better for US investors when the US dollar weakens, and worse when the US dollar strengthens. But nothing can be done since US investors don't have access to low-cost, currency-hedged stock funds (although investors in some [other](https://www.vanguard.com.au/institutional/products/en/detail/etf/8213/equity) countries do).
+International stocks are also exposed to currency fluctuations: they perform better for US investors when the US dollar weakens, and worse when the US dollar strengthens. US investors don't have access to low-cost, currency-hedged stock funds (although investors in some [other](https://www.vanguard.com.au/institutional/products/en/detail/etf/8213/equity) countries do). However, owning international stocks in currencies other than USD is a good hedge against relative declines in USD — which may accompany declines in the US stock market — so I would argue that most US investors should happily accept the exposure to other currencies they receive through their international stocks.
 
 &nbsp;
 
